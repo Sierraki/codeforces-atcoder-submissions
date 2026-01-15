@@ -1,4 +1,20 @@
 {
+  "AC72472312": {
+    "contest_id": "abc439",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc439/abc439A 2^n_-_2_n.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "2^n - 2*n",
+    "problem_url": "https://atcoder.jp/contests/abc439/tasks/abc439_a",
+    "submission_id": "AC72472312",
+    "submission_url": "https://atcoder.jp/contests/abc439/submissions/72472312",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/15/2026 20:36"
+  },
   "AC72472489": {
     "contest_id": "abc439",
     "language": "Python (PyPy 3.11-v7.3.20)",

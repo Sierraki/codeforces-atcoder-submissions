@@ -1,4 +1,20 @@
 {
+  "AC72464847": {
+    "contest_id": "abc440",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc440/abc440B Trifecta.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Trifecta",
+    "problem_url": "https://atcoder.jp/contests/abc440/tasks/abc440_b",
+    "submission_id": "AC72464847",
+    "submission_url": "https://atcoder.jp/contests/abc440/submissions/72464847",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/15/2026 11:55"
+  },
   "AC72465864": {
     "contest_id": "abc440",
     "language": "Python (PyPy 3.11-v7.3.20)",

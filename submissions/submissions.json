@@ -1,4 +1,20 @@
 {
+  "AC72465864": {
+    "contest_id": "abc440",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc440/abc440C Striped_Horse.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Striped Horse",
+    "problem_url": "https://atcoder.jp/contests/abc440/tasks/abc440_c",
+    "submission_id": "AC72465864",
+    "submission_url": "https://atcoder.jp/contests/abc440/submissions/72465864",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/15/2026 13:21"
+  },
   "AC72472089": {
     "contest_id": "abc440",
     "language": "Python (PyPy 3.11-v7.3.20)",

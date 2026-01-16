@@ -1,4 +1,20 @@
 {
+  "AC72476051": {
+    "contest_id": "abc439",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc439/abc439C 2026.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "2026",
+    "problem_url": "https://atcoder.jp/contests/abc439/tasks/abc439_c",
+    "submission_id": "AC72476051",
+    "submission_url": "https://atcoder.jp/contests/abc439/submissions/72476051",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/16/2026 07:58"
+  },
   "AC72476455": {
     "contest_id": "abc438",
     "language": "Python (PyPy 3.11-v7.3.20)",

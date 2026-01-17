@@ -1,12 +1,17 @@
 import sys
+from collections import Counter
 
 input = sys.stdin.readline
+
+
 # m=taka n=aoki
 m, n = map(int, input().split())
-taka = set(input().split()[0])
-aoki = set(input().split()[0])
+taka = Counter(input().split()[0])
+aoki = Counter(input().split()[0])
+
 size = int(input())
 res = [input().split()[0] for _ in range(size)]
+
 for i in res:
     t = True
     a = True

@@ -1,4 +1,20 @@
 {
+  "AC72546309": {
+    "contest_id": "abc441",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc441/abc441F Must_Buy.py",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Must Buy",
+    "problem_url": "https://atcoder.jp/contests/abc441/tasks/abc441_f",
+    "submission_id": "AC72546309",
+    "submission_url": "https://atcoder.jp/contests/abc441/submissions/72546309",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/17/2026 19:03"
+  },
   "AC72620920": {
     "contest_id": "abc439",
     "language": "Python (PyPy 3.11-v7.3.20)",

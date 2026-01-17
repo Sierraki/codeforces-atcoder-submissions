@@ -1,4 +1,20 @@
 {
+  "AC72534519": {
+    "contest_id": "abc441",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc441/abc441C Sake_or_Water.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Sake or Water",
+    "problem_url": "https://atcoder.jp/contests/abc441/tasks/abc441_c",
+    "submission_id": "AC72534519",
+    "submission_url": "https://atcoder.jp/contests/abc441/submissions/72534519",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/17/2026 18:39"
+  },
   "AC72542176": {
     "contest_id": "abc441",
     "language": "Python (PyPy 3.11-v7.3.20)",

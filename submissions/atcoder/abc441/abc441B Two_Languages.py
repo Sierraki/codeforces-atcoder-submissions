@@ -1,6 +1,7 @@
 import sys
 
 input = sys.stdin.readline
+# m=taka n=aoki
 m, n = map(int, input().split())
 taka = set(input().split()[0])
 aoki = set(input().split()[0])

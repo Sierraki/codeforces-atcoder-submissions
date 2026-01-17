@@ -1,7 +1,9 @@
 import sys
 
 input = sys.stdin.readline
+
 n, tar = map(int, input().split())
+
 nums = [list(map(int, input().split())) for _ in range(n)]
 
 
@@ -22,6 +24,7 @@ def fun(n, tar, nums):
             if j >= w:
                 if suf[i + 1][j - w] + v > suf[i][j]:
                     suf[i][j] = suf[i + 1][j - w] + v
+
     v1mx = pf[n][tar]
     for i in range(n + 1):
         for j in range(1, tar + 1):
@@ -31,6 +34,7 @@ def fun(n, tar, nums):
         for j in range(1, tar + 1):
             if suf[i][j - 1] > suf[i][j]:
                 suf[i][j] = suf[i][j - 1]
+
     ans = ""
     for i in range(1, n + 1):
         w, v = nums[i - 1]

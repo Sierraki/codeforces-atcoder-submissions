@@ -1,4 +1,20 @@
 {
+  "AC72545331": {
+    "contest_id": "abc441",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc441/abc441A Black_Square.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Black Square",
+    "problem_url": "https://atcoder.jp/contests/abc441/tasks/abc441_a",
+    "submission_id": "AC72545331",
+    "submission_url": "https://atcoder.jp/contests/abc441/submissions/72545331",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/17/2026 19:01"
+  },
   "AC72545592": {
     "contest_id": "abc441",
     "language": "Python (PyPy 3.11-v7.3.20)",

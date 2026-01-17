@@ -1,4 +1,20 @@
 {
+  "AC72545724": {
+    "contest_id": "abc441",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc441/abc441B Two_Languages.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Two Languages",
+    "problem_url": "https://atcoder.jp/contests/abc441/tasks/abc441_b",
+    "submission_id": "AC72545724",
+    "submission_url": "https://atcoder.jp/contests/abc441/submissions/72545724",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/17/2026 19:02"
+  },
   "AC72546138": {
     "contest_id": "abc441",
     "language": "Python (PyPy 3.11-v7.3.20)",

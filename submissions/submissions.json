@@ -1,4 +1,20 @@
 {
+  "AC72621028": {
+    "contest_id": "abc439",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc439/abc439D Kadomatsu_Subsequence.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Kadomatsu Subsequence",
+    "problem_url": "https://atcoder.jp/contests/abc439/tasks/abc439_d",
+    "submission_id": "AC72621028",
+    "submission_url": "https://atcoder.jp/contests/abc439/submissions/72621028",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "Jan/21/2026 12:08"
+  },
   "AC72621056": {
     "contest_id": "abc439",
     "language": "Python (PyPy 3.11-v7.3.20)",

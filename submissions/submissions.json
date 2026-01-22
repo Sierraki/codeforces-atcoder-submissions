@@ -1,4 +1,20 @@
 {
+  "AC72643943": {
+    "contest_id": "abc437",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc437/abc437B Tombola.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Tombola",
+    "problem_url": "https://atcoder.jp/contests/abc437/tasks/abc437_b",
+    "submission_id": "AC72643943",
+    "submission_url": "https://atcoder.jp/contests/abc437/submissions/72643943",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/22/2026 18:30"
+  },
   "AC72644742": {
     "contest_id": "abc437",
     "language": "Python (PyPy 3.11-v7.3.20)",

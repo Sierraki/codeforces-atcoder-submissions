@@ -1,4 +1,20 @@
 {
+  "AC72645719": {
+    "contest_id": "abc437",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc437/abc437C Reindeer_and_Sleigh_2.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Reindeer and Sleigh 2",
+    "problem_url": "https://atcoder.jp/contests/abc437/tasks/abc437_c",
+    "submission_id": "AC72645719",
+    "submission_url": "https://atcoder.jp/contests/abc437/submissions/72645719",
+    "tags": [
+      "AtCoder",
+      "*350"
+    ],
+    "timestamp": "Jan/22/2026 20:02"
+  },
   "AC72649981": {
     "contest_id": "abc436",
     "language": "Python (PyPy 3.11-v7.3.20)",

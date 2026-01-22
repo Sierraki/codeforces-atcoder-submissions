@@ -1,4 +1,20 @@
 {
+  "AC72643512": {
+    "contest_id": "abc437",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc437/abc437A Feet.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Feet",
+    "problem_url": "https://atcoder.jp/contests/abc437/tasks/abc437_a",
+    "submission_id": "AC72643512",
+    "submission_url": "https://atcoder.jp/contests/abc437/submissions/72643512",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/22/2026 18:10"
+  },
   "AC72643943": {
     "contest_id": "abc437",
     "language": "Python (PyPy 3.11-v7.3.20)",

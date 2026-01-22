@@ -1,7 +1,6 @@
 from collections import defaultdict, Counter, deque
 from math import sqrt, floor
 from bisect import bisect, bisect_left
-from itertools import accumulate
 import sys
 
 input = sys.stdin.readline
@@ -26,13 +25,25 @@ def si():
 n, m = mii()
 nums1 = lmii()
 nums2 = lmii()
+
 ans = 0
 nums2.sort()
-pf = list(accumulate(nums2, initial=0))
+
+pf = [0]
+s = 0
+for i in nums2:
+    s += i
+    pf.append(s)
+
 for i in nums1:
+    # print(i, bisect(nums2, i))
     tar = bisect(nums2, i)
+    # p1 = nums2[:tar]
+    # p2 = nums2[tar:]
+    # print(p1, p2)
     ans -= pf[tar]
     ans += pf[-1] - pf[tar]
     ans += tar * i
     ans -= (m - tar) * i
+
 print(abs(ans) % 998244353)

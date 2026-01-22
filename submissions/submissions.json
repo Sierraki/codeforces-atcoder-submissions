@@ -1,4 +1,20 @@
 {
+  "AC72644742": {
+    "contest_id": "abc437",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc437/abc437D Sum_of_Differences.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Sum of Differences",
+    "problem_url": "https://atcoder.jp/contests/abc437/tasks/abc437_d",
+    "submission_id": "AC72644742",
+    "submission_url": "https://atcoder.jp/contests/abc437/submissions/72644742",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/22/2026 19:13"
+  },
   "AC72644785": {
     "contest_id": "abc437",
     "language": "Python (PyPy 3.11-v7.3.20)",

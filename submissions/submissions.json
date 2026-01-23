@@ -1,4 +1,20 @@
 {
+  "AC72649981": {
+    "contest_id": "abc436",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc436/abc436A o-padding.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "o-padding",
+    "problem_url": "https://atcoder.jp/contests/abc436/tasks/abc436_a",
+    "submission_id": "AC72649981",
+    "submission_url": "https://atcoder.jp/contests/abc436/submissions/72649981",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/23/2026 06:32"
+  },
   "AC72650142": {
     "contest_id": "abc436",
     "language": "Python (PyPy 3.11-v7.3.20)",

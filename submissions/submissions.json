@@ -1,4 +1,20 @@
 {
+  "AC72653898": {
+    "contest_id": "abc435",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc435/abc435B No-Divisible_Range.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "No-Divisible Range",
+    "problem_url": "https://atcoder.jp/contests/abc435/tasks/abc435_b",
+    "submission_id": "AC72653898",
+    "submission_url": "https://atcoder.jp/contests/abc435/submissions/72653898",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/23/2026 13:10"
+  },
   "AC72654155": {
     "contest_id": "abc435",
     "language": "Python (PyPy 3.11-v7.3.20)",

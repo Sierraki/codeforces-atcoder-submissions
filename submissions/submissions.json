@@ -1,4 +1,20 @@
 {
+  "AC72650142": {
+    "contest_id": "abc436",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc436/abc436B Magic_Square.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Magic Square",
+    "problem_url": "https://atcoder.jp/contests/abc436/tasks/abc436_b",
+    "submission_id": "AC72650142",
+    "submission_url": "https://atcoder.jp/contests/abc436/submissions/72650142",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/23/2026 06:54"
+  },
   "AC72650511": {
     "contest_id": "abc436",
     "language": "Python (PyPy 3.11-v7.3.20)",

@@ -25,11 +25,16 @@ def si():
 
 n = ii()
 nums = deque(lmii())
-res = 0
-cnt = 1
-while cnt >= 1 and nums:
-    cnt -= 1
-    cur = nums.popleft()
-    cnt = max(cnt, cur - 1)
-    res+=1
-print(res)
+
+
+res=[]
+
+cnt=1
+while cnt>=1 and nums:
+    cnt-=1
+    cur=nums.popleft()
+    cnt=max(cnt,cur-1) 
+    res.append(cur)
+
+    # print(res,nums)
+print(len(res))

@@ -1,4 +1,20 @@
 {
+  "AC72654155": {
+    "contest_id": "abc435",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc435/abc435C Domino.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Domino",
+    "problem_url": "https://atcoder.jp/contests/abc435/tasks/abc435_c",
+    "submission_id": "AC72654155",
+    "submission_url": "https://atcoder.jp/contests/abc435/submissions/72654155",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/23/2026 13:24"
+  },
   "AC72654244": {
     "contest_id": "abc435",
     "language": "Python (PyPy 3.11-v7.3.20)",

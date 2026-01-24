@@ -29,14 +29,24 @@ def lacc(nums):
 
 n, q = mii()
 nums = lmii()
+
 pf = [0] + lacc(nums)
 nums = [0] + nums
+# print(n, q)
+# print(pf)
+# print(nums)
+
 for _ in range(q):
     cur = lmii()
+    # print(cur)
     if cur[0] == 1:
         x = cur[1]
         pf[x] = pf[x] - nums[x] + nums[x + 1]
         nums[x], nums[x + 1] = nums[x + 1], nums[x]
+
+        # print(nums, pf)
     elif cur[0] == 2:
         l, r = cur[1], cur[2]
+        # print(2,'l=',l,'r=',r)
+        # print(nums, pf, pf[r] - pf[l - 1])
         print(pf[r] - pf[l - 1])

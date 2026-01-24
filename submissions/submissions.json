@@ -1,4 +1,20 @@
 {
+  "AC72688368": {
+    "contest_id": "abc442",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc442/abc442B Music_Player.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Music Player",
+    "problem_url": "https://atcoder.jp/contests/abc442/tasks/abc442_b",
+    "submission_id": "AC72688368",
+    "submission_url": "https://atcoder.jp/contests/abc442/submissions/72688368",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/24/2026 18:09"
+  },
   "AC72695764": {
     "contest_id": "abc442",
     "language": "Python (PyPy 3.11-v7.3.20)",

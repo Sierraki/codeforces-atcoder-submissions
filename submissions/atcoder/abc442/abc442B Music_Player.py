@@ -30,18 +30,23 @@ def lacc(nums):
 size = ii()
 ans = 0
 play = False
+
 for i in range(size):
+    # print(i)
     cur = ii()
+    # print(cur)
     if cur == 1:
         ans += 1
     elif cur == 2:
         if ans >= 1:
             ans -= 1
-    else:
+    elif cur == 3:
         if not play:
             play = True
         else:
             play = False
+    # print(ans, play)
+
     if ans >= 3 and play == True:
         print("Yes")
     else:

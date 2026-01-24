@@ -1,4 +1,20 @@
 {
+  "AC72675652": {
+    "contest_id": "abc442",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc442/abc442A Count_..py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Count .",
+    "problem_url": "https://atcoder.jp/contests/abc442/tasks/abc442_a",
+    "submission_id": "AC72675652",
+    "submission_url": "https://atcoder.jp/contests/abc442/submissions/72675652",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/24/2026 18:01"
+  },
   "AC72688368": {
     "contest_id": "abc442",
     "language": "Python (PyPy 3.11-v7.3.20)",

@@ -28,16 +28,21 @@ def lacc(nums):
 
 
 n, m = mii()
-nums = [lmii() for _ in range(m)]
-cnt = defaultdict(set)
+nums = []
+for _ in range(m):
+    nums.append(lmii())
+
+de = [0] * (n + 1)
 for i, j in nums:
-    cnt[i].add(j)
-    cnt[j].add(i)
-dp = [0] * (n + 1)
+    de[i] += 1
+    de[j] += 1
+
+res = []
 for i in range(1, n + 1):
-    cur = n - len(cnt[i]) - 1
-    if cur >= 3:
-        dp[i] = cur * (cur - 1) * (cur - 2) // 6
+    k = n - 1 - de[i]
+    if k < 3:
+        res.append(0)
     else:
-        dp[i] = 0
-print(*dp[1:])
+        val = k * (k - 1) * (k - 2) // 6
+        res.append(val)
+print(*res)

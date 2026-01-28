@@ -29,17 +29,17 @@ def lacc(nums):
 
 def solve():
     n = ii()
-
+    nums = list(range(1, n + 1))
     res = []
-    while n >= 2:
-        cur1 = n
-        cur2 = cur1-1
-        n -= 2
+
+    while len(nums) >= 2:
+        cur1 = nums.pop()
+        cur2 = nums.pop()
         if not res:
             res += [cur1, cur2] * cur2 + [cur1]
         else:
             res = [cur1] + res + [cur1, cur2] * cur2
-    if n==1:
+    if nums:
         res.append(1)
     print(*res)
 

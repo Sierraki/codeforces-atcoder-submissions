@@ -1,4 +1,20 @@
 {
+  "AC72804540": {
+    "contest_id": "agc064",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/agc064/agc064A i_i_s.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "i i's",
+    "problem_url": "https://atcoder.jp/contests/agc064/tasks/agc064_a",
+    "submission_id": "AC72804540",
+    "submission_url": "https://atcoder.jp/contests/agc064/submissions/72804540",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/28/2026 12:43"
+  },
   "AC72804611": {
     "contest_id": "agc064",
     "language": "Python (PyPy 3.11-v7.3.20)",

@@ -1,4 +1,20 @@
 {
+  "AC72800873": {
+    "contest_id": "abc278",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc278/abc278E Grid_Filling.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Grid Filling",
+    "problem_url": "https://atcoder.jp/contests/abc278/tasks/abc278_e",
+    "submission_id": "AC72800873",
+    "submission_url": "https://atcoder.jp/contests/abc278/submissions/72800873",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Jan/28/2026 07:56"
+  },
   "AC72804540": {
     "contest_id": "agc064",
     "language": "Python (PyPy 3.11-v7.3.20)",

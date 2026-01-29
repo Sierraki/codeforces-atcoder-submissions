@@ -1,4 +1,20 @@
 {
+  "AC72820535": {
+    "contest_id": "arc210",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/arc210/arc210A Always_Increasing.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Always Increasing",
+    "problem_url": "https://atcoder.jp/contests/arc210/tasks/arc210_a",
+    "submission_id": "AC72820535",
+    "submission_url": "https://atcoder.jp/contests/arc210/submissions/72820535",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/29/2026 13:10"
+  },
   "AC72820776": {
     "contest_id": "abc161",
     "language": "Python (PyPy 3.11-v7.3.20)",

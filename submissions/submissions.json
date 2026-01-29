@@ -1,4 +1,20 @@
 {
+  "AC72820776": {
+    "contest_id": "abc161",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc161/abc161D Lunlun_Number.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Lunlun Number",
+    "problem_url": "https://atcoder.jp/contests/abc161/tasks/abc161_d",
+    "submission_id": "AC72820776",
+    "submission_url": "https://atcoder.jp/contests/abc161/submissions/72820776",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/29/2026 13:28"
+  },
   "AC72834426": {
     "contest_id": "abc434",
     "language": "Python (PyPy 3.11-v7.3.20)",

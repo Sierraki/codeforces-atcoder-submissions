@@ -1,4 +1,20 @@
 {
+  "AC72845500": {
+    "contest_id": "abc336",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc336/abc336B CTZ.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "CTZ",
+    "problem_url": "https://atcoder.jp/contests/abc336/tasks/abc336_b",
+    "submission_id": "AC72845500",
+    "submission_url": "https://atcoder.jp/contests/abc336/submissions/72845500",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/31/2026 01:17"
+  },
   "AC72845684": {
     "contest_id": "abc336",
     "language": "Python (PyPy 3.11-v7.3.20)",

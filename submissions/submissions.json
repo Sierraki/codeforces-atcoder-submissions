@@ -1,4 +1,20 @@
 {
+  "AC72845465": {
+    "contest_id": "abc336",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc336/abc336D Pyramid.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Pyramid",
+    "problem_url": "https://atcoder.jp/contests/abc336/tasks/abc336_d",
+    "submission_id": "AC72845465",
+    "submission_url": "https://atcoder.jp/contests/abc336/submissions/72845465",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Jan/31/2026 01:12"
+  },
   "AC72845484": {
     "contest_id": "abc336",
     "language": "Python (PyPy 3.11-v7.3.20)",

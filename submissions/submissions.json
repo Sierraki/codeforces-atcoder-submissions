@@ -1,4 +1,20 @@
 {
+  "AC72845484": {
+    "contest_id": "abc336",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc336/abc336A Long_Loong.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Long Loong",
+    "problem_url": "https://atcoder.jp/contests/abc336/tasks/abc336_a",
+    "submission_id": "AC72845484",
+    "submission_url": "https://atcoder.jp/contests/abc336/submissions/72845484",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/31/2026 01:15"
+  },
   "AC72845500": {
     "contest_id": "abc336",
     "language": "Python (PyPy 3.11-v7.3.20)",

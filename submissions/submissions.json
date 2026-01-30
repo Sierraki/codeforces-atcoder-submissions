@@ -1,4 +1,20 @@
 {
+  "AC72845684": {
+    "contest_id": "abc336",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc336/abc336C Even_Digits.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Even Digits",
+    "problem_url": "https://atcoder.jp/contests/abc336/tasks/abc336_c",
+    "submission_id": "AC72845684",
+    "submission_url": "https://atcoder.jp/contests/abc336/submissions/72845684",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/31/2026 01:43"
+  },
   "AC72860206": {
     "contest_id": "abc443",
     "language": "Python (PyPy 3.11-v7.3.20)",

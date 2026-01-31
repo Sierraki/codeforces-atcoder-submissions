@@ -1,4 +1,20 @@
 {
+  "AC72918135": {
+    "contest_id": "abc441",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc441/abc441D Paid_Walk.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Paid Walk",
+    "problem_url": "https://atcoder.jp/contests/abc441/tasks/abc441_d",
+    "submission_id": "AC72918135",
+    "submission_url": "https://atcoder.jp/contests/abc441/submissions/72918135",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/01/2026 01:31"
+  },
   "AC73027939": {
     "contest_id": "abc433",
     "language": "Python (PyPy 3.11-v7.3.20)",

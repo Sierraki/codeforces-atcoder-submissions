@@ -30,23 +30,32 @@ def lacc(nums):
 def solve():
     n, t = mii()
     nums = lmii()
+
     shut = [[t, False]]
     op = [[0, True]]
+
+    start = []
+    end = 0
     for i in nums:
+        if i >= end:
+            start.append(i)
+            end = i + 100
+    for i in start:
         shut.append([i, False])
-        if op[-1][0] < i:
-            op.append([i + 100, True])
+        op.append([i + 100, True])
+
     res = op + shut
     res.sort()
     cnt = 0
-    # print(n, t)
-    # print(res)
+    
     for i in range(1, len(res)):
         cur = res[i]
         pre = res[i - 1]
+
         if cur[0] <= t:
             if pre[1] == True:
                 cnt += cur[0] - pre[0]
+
     print(cnt)
 
 

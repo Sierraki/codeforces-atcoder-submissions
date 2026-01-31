@@ -43,20 +43,17 @@ def solve():
     res = set()
 
     def dfs(cur, path, cost):
-        if len(path) > l + 1:
-            return
-        if len(path) == l + 1 and s <= cost <= t:
-            res.add(path[-1])
+        if path > l or cost > t:
             return
 
-        for i in range(len(nums[cur])):
-            path.append(nums[cur][i][0])
+        if (path) == l and s <= cost <= t:
+            res.add(cur)
+            return
 
-            dfs(nums[cur][i][0], path, cost + nums[cur][i][1])
-            path.pop()
-            # cost -= nums[cur][i][1]
+        for i, j in nums[cur]:
+            dfs(i, path + 1, cost + j)
 
-    dfs(1, [1], 0)
+    dfs(1, 0, 0)
     print(*sorted(list(res)))
 
 

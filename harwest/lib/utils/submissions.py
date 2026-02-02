@@ -394,8 +394,8 @@ class Submissions:
         else:
           row += f'<td align="center"><code>{language}</code></td>\n'
         
-        # Tags
-        tags_html = ' '.join([f'<code>{tag}</code>' for tag in tags[:3]]) if tags else '-'
+        # Tags (show all to reflect new tags reliably)
+        tags_html = ' '.join([f'<code>{tag}</code>' for tag in tags]) if tags else '-'
         row += f'<td>{tags_html}</td>\n'
         
         # Timestamp
@@ -472,9 +472,26 @@ class Submissions:
       print(f"Error: Template formatting failed: {e}")
       return
     
-    # Write to root directory
+    # Write to root directory (avoid changing file if only timestamp changed)
     try:
+      import re
       markdown_path = os.path.join(self.root_directory, f"{platform}.md")
+      existing_content = ""
+      if os.path.exists(markdown_path):
+        try:
+          with open(markdown_path, 'r', encoding="utf-8") as fp:
+            existing_content = fp.read()
+        except Exception as e:
+          print(f"Warning: Could not read existing markdown for comparison: {e}")
+
+      def _normalize_last_updated(content):
+        return re.sub(r"\*Last Updated: .*?\*", "*Last Updated: {last_updated}*", content)
+
+      if existing_content:
+        if _normalize_last_updated(existing_content) == _normalize_last_updated(markdown_data):
+          print(f"[OK] No content changes for {platform}.md (timestamp only)")
+          return
+
       with open(markdown_path, 'w', encoding="utf-8") as fp:
         fp.write(markdown_data)
       

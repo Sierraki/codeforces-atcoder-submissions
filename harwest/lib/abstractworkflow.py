@@ -1,5 +1,4 @@
 import os
-import sys
 
 from abc import ABC, abstractmethod
 
@@ -213,7 +212,9 @@ class AbstractWorkflow(ABC):
 
   @staticmethod
   def __to_git_path(path):
-    return os.path.join(*path.split(os.sep)[-3:])
+    # Use forward slashes for git paths (cross-platform compatible)
+    parts = path.replace('\\', '/').split('/')[-3:]
+    return '/'.join(parts)
   
   @staticmethod
   def __get_submission_timestamp(submission):
@@ -416,6 +417,20 @@ class AbstractWorkflow(ABC):
       if self.url_only_count > 0:
         print(f"{YELLOW}ℹ️  {platform} didn't provide solution code for {self.url_only_count} submissions, so stored Solution URL only.{RESET}")
       print(f"{GREEN}{'═' * 80}{RESET}\n")
+      
+      # Update timestamp only if there were new submissions
+      if new_submissions_count > 0:
+        import time
+        from harwest.lib.utils import config
+        config.write_last_update_timestamp(
+          self.submissions_directory, 
+          platform,
+          int(time.time()),
+          new_submissions_count
+        )
+        print(f"{GREEN}✓ Timestamp updated (Found {new_submissions_count} new submissions){RESET}\n")
+      else:
+        print(f"{CYAN}ℹ️  No new submissions found - timestamp not updated (Smart Schedule){RESET}\n")
     except Exception as e:
       print(f"\n{YELLOW}⚠️  Warning: Failed to push to repository: {str(e)}{RESET}")
       print(f"{YELLOW}    Changes are saved locally but not pushed{RESET}\n")

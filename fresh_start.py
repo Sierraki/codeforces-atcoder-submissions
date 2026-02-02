@@ -21,7 +21,6 @@ Just run: python fresh_start.py
 import os
 import sys
 import json
-import shutil
 from pathlib import Path
 
 # Colors for terminal output

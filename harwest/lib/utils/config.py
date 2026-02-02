@@ -197,6 +197,77 @@ def write_setup_data(setup):
             fp=open(str(RESOURCES_DIR.joinpath('setup.json')), 'w'))
 
 
+def load_last_update_timestamp(submissions_directory, platform):
+  """Load the last successful update timestamp for a platform.
+  
+  Args:
+    submissions_directory: Path to submissions directory
+    platform: Platform name (e.g., 'codeforces', 'atcoder')
+  
+  Returns:
+    dict: Timestamp info or empty dict if not found
+  """
+  timestamp_file = os.path.join(submissions_directory, '.harwest_timestamps.json')
+  if not os.path.exists(timestamp_file):
+    return {}
+  
+  try:
+    with open(timestamp_file, 'r') as f:
+      data = json.load(f)
+      return data.get(platform, {})
+  except (json.JSONDecodeError, IOError):
+    return {}
+
+
+def write_last_update_timestamp(submissions_directory, platform, timestamp, new_submissions_count):
+  """Save the last successful update timestamp for a platform.
+  
+  Args:
+    submissions_directory: Path to submissions directory
+    platform: Platform name (e.g., 'codeforces', 'atcoder')
+    timestamp: Unix timestamp of the update
+    new_submissions_count: Number of new submissions added
+  """
+  timestamp_file = os.path.join(submissions_directory, '.harwest_timestamps.json')
+  
+  try:
+    # Load existing timestamps
+    if os.path.exists(timestamp_file):
+      with open(timestamp_file, 'r') as f:
+        data = json.load(f)
+    else:
+      data = {}
+    
+    # Update for this platform (only if new submissions were found)
+    if new_submissions_count > 0:
+      data[platform] = {
+        'timestamp': timestamp,
+        'new_submissions_count': new_submissions_count,
+        'formatted_time': __format_timestamp(timestamp)
+      }
+    else:
+      # Still record the check, but mark as no new submissions
+      if platform not in data:
+        data[platform] = {}
+      data[platform]['last_check_time'] = timestamp
+      data[platform]['last_check_formatted'] = __format_timestamp(timestamp)
+    
+    # Write back
+    with open(timestamp_file, 'w') as f:
+      json.dump(data, f, indent=2, sort_keys=True)
+  except Exception as e:
+    print(f"Warning: Could not save timestamp: {e}")
+
+
+def __format_timestamp(timestamp):
+  """Format Unix timestamp to readable string."""
+  from datetime import datetime
+  try:
+    return datetime.fromtimestamp(timestamp).strftime('%Y-%m-%d %H:%M:%S')
+  except:
+    return str(timestamp)
+
+
 def load_users_config():
   """Load usernames from config/users.json file.
   

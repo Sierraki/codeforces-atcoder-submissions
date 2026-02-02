@@ -1,5 +1,4 @@
 import os
-import shutil
 from harwest.lib.utils import config
 from datetime import datetime
 from git import Repo, GitCommandError

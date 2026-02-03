@@ -245,16 +245,10 @@ def write_last_update_timestamp(submissions_directory, platform, timestamp, new_
         'new_submissions_count': new_submissions_count,
         'formatted_time': __format_timestamp(timestamp)
       }
-    else:
-      # Still record the check, but mark as no new submissions
-      if platform not in data:
-        data[platform] = {}
-      data[platform]['last_check_time'] = timestamp
-      data[platform]['last_check_formatted'] = __format_timestamp(timestamp)
-    
-    # Write back
-    with open(timestamp_file, 'w') as f:
-      json.dump(data, f, indent=2, sort_keys=True)
+      
+      # Write back only when there are new submissions
+      with open(timestamp_file, 'w') as f:
+        json.dump(data, f, indent=2, sort_keys=True)
   except Exception as e:
     print(f"Warning: Could not save timestamp: {e}")
 

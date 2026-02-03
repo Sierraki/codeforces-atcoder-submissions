@@ -126,7 +126,7 @@ jobs:
           echo "GITHUB_REF_NAME=${{ github.ref_name }}" >> $GITHUB_ENV
 
       - name: Harvest Codeforces submissions
-        if: steps.check_config.outputs.has_users == 'true' && (github.event.inputs.platform == 'codeforces' || github.event.inputs.platform == 'all' || github.event.inputs.platform == '')
+        if: steps.check_config.outputs.has_users == 'true' && (github.event_name == 'schedule' || github.event.inputs.platform == 'codeforces' || github.event.inputs.platform == 'all' || github.event.inputs.platform == '')
         run: |
           FULL_SCAN_FLAG=""
           CURRENT_DAY=$(date +%d)
@@ -140,7 +140,7 @@ jobs:
           python3 -m harwest codeforces $FULL_SCAN_FLAG --auto
 
       - name: Harvest AtCoder submissions
-        if: steps.check_config.outputs.has_users == 'true' && (github.event.inputs.platform == 'atcoder' || github.event.inputs.platform == 'all' || github.event.inputs.platform == '')
+        if: steps.check_config.outputs.has_users == 'true' && (github.event_name == 'schedule' || github.event.inputs.platform == 'atcoder' || github.event.inputs.platform == 'all' || github.event.inputs.platform == '')
         run: |
           FULL_SCAN_FLAG=""
           CURRENT_DAY=$(date +%d)

@@ -191,6 +191,6 @@ Built with ❤️ by [Md Mishkatul Islam](https://github.com/MishkatIT) using [H
 </div>
 
 <br>
-<p align="center"><sub>Version: 0.3.2</sub></p>
+<p align="center"><sub>V2.0</sub></p>
 
 

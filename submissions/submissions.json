@@ -52267,5 +52267,21 @@
       "shortest paths"
     ],
     "timestamp": "Jan/25/2026 23:23"
+  },
+  "CF361449696": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2188,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Divisible Permutation",
+    "problem_url": "https://codeforces.com/contest/2188/problem/A",
+    "submission_id": "CF361449696",
+    "submission_url": "https://codeforces.com/contest/2188/submission/361449696",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Feb/04/2026 23:55"
   }
 }

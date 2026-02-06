@@ -1,4 +1,20 @@
 {
+  "AC73028417": {
+    "contest_id": "abc432",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc432/abc432C Candy_Tribulation.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Candy Tribulation",
+    "problem_url": "https://atcoder.jp/contests/abc432/tasks/abc432_c",
+    "submission_id": "AC73028417",
+    "submission_url": "https://atcoder.jp/contests/abc432/submissions/73028417",
+    "tags": [
+      "AtCoder",
+      "*350"
+    ],
+    "timestamp": "Feb/06/2026 19:22"
+  },
   "AC73028500": {
     "contest_id": "abc432",
     "language": "Python (PyPy 3.11-v7.3.20)",

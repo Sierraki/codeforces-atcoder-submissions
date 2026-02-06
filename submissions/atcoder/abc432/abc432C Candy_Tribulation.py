@@ -35,19 +35,23 @@ def solve():
         return (total - x * ai) // (y - x)
 
     diff = y - x
-    res = (nums[0] * x) % diff
+    res1 = (nums[0] * x) % diff
     for i in nums:
-        if (i * x) % diff != res:
+        if (i * x) % diff != res1:
             print(-1)
-            return
-    if max(nums) * x > min(nums) * y:
+            return 
+    min_tar = max(nums) * x
+    max_tar = min(nums) * y 
+    tar = max_tar 
+    diff = (tar % diff - res1) % diff
+    tar -= diff  
+    if tar < min_tar:
         print(-1)
-        return
-    cnt = 0
-    tar = min(nums) * y
-    for i in nums:
-        cnt += fun(x, y, tar, i)
-    print(cnt)
+    else:
+        cnt = 0
+        for i in nums:
+            cnt += fun(x, y, tar, i)
+        print(cnt)
 
 
 # sys.setrecursionlimit(200000)

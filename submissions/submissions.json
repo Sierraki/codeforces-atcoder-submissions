@@ -1,4 +1,20 @@
 {
+  "AC73031048": {
+    "contest_id": "abc433",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc433/abc433A Happy_Birthday__4.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Happy Birthday! 4",
+    "problem_url": "https://atcoder.jp/contests/abc433/tasks/abc433_a",
+    "submission_id": "AC73031048",
+    "submission_url": "https://atcoder.jp/contests/abc433/submissions/73031048",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/06/2026 22:34"
+  },
   "AC73031222": {
     "contest_id": "abc433",
     "language": "Python (PyPy 3.11-v7.3.20)",

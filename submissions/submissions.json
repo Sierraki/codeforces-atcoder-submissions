@@ -1,4 +1,20 @@
 {
+  "AC73027939": {
+    "contest_id": "abc433",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc433/abc433C 1122_Substring_2.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "1122 Substring 2",
+    "problem_url": "https://atcoder.jp/contests/abc433/tasks/abc433_c",
+    "submission_id": "AC73027939",
+    "submission_url": "https://atcoder.jp/contests/abc433/submissions/73027939",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/06/2026 18:51"
+  },
   "AC73028417": {
     "contest_id": "abc432",
     "language": "Python (PyPy 3.11-v7.3.20)",

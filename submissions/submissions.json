@@ -1,4 +1,20 @@
 {
+  "AC73113901": {
+    "contest_id": "abc444",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc444/abc444D Many_Repunit_Sum.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Many Repunit Sum",
+    "problem_url": "https://atcoder.jp/contests/abc444/tasks/abc444_d",
+    "submission_id": "AC73113901",
+    "submission_url": "https://atcoder.jp/contests/abc444/submissions/73113901",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/07/2026 22:40"
+  },
   "AC73157080": {
     "contest_id": "awc0001",
     "language": "Python (PyPy 3.11-v7.3.20)",

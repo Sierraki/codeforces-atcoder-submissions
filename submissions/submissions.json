@@ -1,4 +1,20 @@
 {
+  "AC73041644": {
+    "contest_id": "abc432",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc432/abc432B Permute_to_Minimize.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Permute to Minimize",
+    "problem_url": "https://atcoder.jp/contests/abc432/tasks/abc432_b",
+    "submission_id": "AC73041644",
+    "submission_url": "https://atcoder.jp/contests/abc432/submissions/73041644",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/07/2026 15:59"
+  },
   "AC73048225": {
     "contest_id": "abc444",
     "language": "Python (PyPy 3.11-v7.3.20)",

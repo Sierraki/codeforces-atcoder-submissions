@@ -37,29 +37,32 @@ def solve():
     nums.sort()
 
     total = sum(nums)
+    mx = nums[-1]
     res = []
 
-    # print(nums)
-    for i in range(1, n + 1):
-        if total % i == 0:
-            cur = total // i
-            # cur为L
-            if nums[-1] <= cur:
+    ans1 = (n + 1) // 2
+    ans2 = n
+
+    for k in range(ans1, ans2 + 1):
+        if total % k == 0:
+            cur = total // k
+            if cur >= mx:
                 l, r = 0, n - 1
                 swap = True
                 while l <= r:
-                    if nums[l] + nums[r] == cur:
+                    if nums[r] == cur:
+                        r -= 1
+                    elif l < r and nums[r] + nums[l] == cur:
+                        r -= 1
                         l += 1
-                        r -= 1
-                    elif nums[r] == cur:
-                        r -= 1
                     else:
                         swap = False
                         break
-                if swap == True:
+                if swap:
                     res.append(cur)
+
     res.sort()
-    print(*res)
+    print(*(res))
 
 
 # sys.setrecursionlimit(200000)

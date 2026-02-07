@@ -1,4 +1,20 @@
 {
+  "AC73041531": {
+    "contest_id": "abc432",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc432/abc432A Permute_to_Maximize.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Permute to Maximize",
+    "problem_url": "https://atcoder.jp/contests/abc432/tasks/abc432_a",
+    "submission_id": "AC73041531",
+    "submission_url": "https://atcoder.jp/contests/abc432/submissions/73041531",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Feb/07/2026 15:51"
+  },
   "AC73041644": {
     "contest_id": "abc432",
     "language": "Python (PyPy 3.11-v7.3.20)",

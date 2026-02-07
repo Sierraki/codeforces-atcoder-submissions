@@ -1,4 +1,20 @@
 {
+  "AC73086309": {
+    "contest_id": "abc444",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc444/abc444C AtCoder_Riko.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "AtCoder Riko",
+    "problem_url": "https://atcoder.jp/contests/abc444/tasks/abc444_c",
+    "submission_id": "AC73086309",
+    "submission_url": "https://atcoder.jp/contests/abc444/submissions/73086309",
+    "tags": [
+      "AtCoder",
+      "*350"
+    ],
+    "timestamp": "Feb/07/2026 18:54"
+  },
   "AC73089764": {
     "contest_id": "abc444",
     "language": "Python (PyPy 3.11-v7.3.20)",

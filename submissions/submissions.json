@@ -1,4 +1,20 @@
 {
+  "AC73167617": {
+    "contest_id": "awc0001",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/awc0001/awc0001E Temperature_Fluctuation_Range.py",
+    "platform": "AtCoder",
+    "problem_index": "E",
+    "problem_name": "Temperature Fluctuation Range",
+    "problem_url": "https://atcoder.jp/contests/awc0001/tasks/awc0001_e",
+    "submission_id": "AC73167617",
+    "submission_url": "https://atcoder.jp/contests/awc0001/submissions/73167617",
+    "tags": [
+      "AtCoder",
+      "*466"
+    ],
+    "timestamp": "Feb/09/2026 20:14"
+  },
   "AC73270006": {
     "contest_id": "awc0005",
     "language": "Python (PyPy 3.11-v7.3.20)",

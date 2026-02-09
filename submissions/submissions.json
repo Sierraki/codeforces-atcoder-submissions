@@ -1,4 +1,20 @@
 {
+  "AC73158586": {
+    "contest_id": "awc0001",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/awc0001/awc0001C Discount_Coupon.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Discount Coupon",
+    "problem_url": "https://atcoder.jp/contests/awc0001/tasks/awc0001_c",
+    "submission_id": "AC73158586",
+    "submission_url": "https://atcoder.jp/contests/awc0001/submissions/73158586",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/09/2026 17:10"
+  },
   "AC73158899": {
     "contest_id": "awc0001",
     "language": "Python (PyPy 3.11-v7.3.20)",

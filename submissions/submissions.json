@@ -1,4 +1,20 @@
 {
+  "AC73158899": {
+    "contest_id": "awc0001",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/awc0001/awc0001B Exam_Passers.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Exam Passers",
+    "problem_url": "https://atcoder.jp/contests/awc0001/tasks/awc0001_b",
+    "submission_id": "AC73158899",
+    "submission_url": "https://atcoder.jp/contests/awc0001/submissions/73158899",
+    "tags": [
+      "AtCoder",
+      "*233"
+    ],
+    "timestamp": "Feb/09/2026 17:12"
+  },
   "AC73161332": {
     "contest_id": "awc0001",
     "language": "Python (PyPy 3.11-v7.3.20)",

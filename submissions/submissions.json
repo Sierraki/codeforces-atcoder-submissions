@@ -1,4 +1,20 @@
 {
+  "AC73161332": {
+    "contest_id": "awc0001",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/awc0001/awc0001D Merchant_on_the_Highway.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Merchant on the Highway",
+    "problem_url": "https://atcoder.jp/contests/awc0001/tasks/awc0001_d",
+    "submission_id": "AC73161332",
+    "submission_url": "https://atcoder.jp/contests/awc0001/submissions/73161332",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/09/2026 17:32"
+  },
   "AC73163024": {
     "contest_id": "awc0001",
     "language": "Python (PyPy 3.11-v7.3.20)",

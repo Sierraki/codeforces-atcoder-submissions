@@ -1,4 +1,20 @@
 {
+  "AC73157080": {
+    "contest_id": "awc0001",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/awc0001/awc0001A Bacteria_Growth_Experiment.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Bacteria Growth Experiment",
+    "problem_url": "https://atcoder.jp/contests/awc0001/tasks/awc0001_a",
+    "submission_id": "AC73157080",
+    "submission_url": "https://atcoder.jp/contests/awc0001/submissions/73157080",
+    "tags": [
+      "AtCoder",
+      "*166"
+    ],
+    "timestamp": "Feb/09/2026 17:04"
+  },
   "AC73158586": {
     "contest_id": "awc0001",
     "language": "Python (PyPy 3.11-v7.3.20)",

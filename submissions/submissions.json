@@ -52413,7 +52413,7 @@
     "timestamp": "Feb/08/2026 15:12"
   },
   "CF361949213": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2194,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52424,7 +52424,6 @@
     "submission_id": "CF361949213",
     "submission_url": "https://codeforces.com/contest/2194/submission/361949213",
     "tags": [
-      "brute force",
       "greedy",
       "implementation",
       "math"
@@ -52432,7 +52431,7 @@
     "timestamp": "Feb/08/2026 15:22"
   },
   "CF361994114": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2194,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52443,11 +52442,8 @@
     "submission_id": "CF361994114",
     "submission_url": "https://codeforces.com/contest/2194/submission/361994114",
     "tags": [
-      "bitmasks",
-      "brute force",
-      "implementation",
-      "math",
-      "number theory"
+      "dp",
+      "math"
     ],
     "timestamp": "Feb/08/2026 16:51"
   }

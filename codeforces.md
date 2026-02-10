@@ -34,7 +34,7 @@
 <td align="center">1</td>
 <td><a href="https://codeforces.com/contest/2194/problem/C"><b>C</b> - Secret message</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2194/submission/361994114" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>dp</code> <code>math</code></td>
+<td><code>brute force</code> <code>dp</code> <code>math</code></td>
 <td align="center"><sub>Feb/08/2026 16:51</sub></td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@
 <td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2194/problem/A"><b>A</b> - Lawn Mower</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2194/submission/361940650" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>math</code></td>
+<td><code>greedy</code> <code>math</code></td>
 <td align="center"><sub>Feb/08/2026 15:12</sub></td>
 </tr>
 <tr>
@@ -15845,6 +15845,6 @@
 
 <div align="center">
 
-*Last Updated: February 09, 2026 at 23:51 BDT (UTC+6)*
+*Last Updated: February 11, 2026 at 00:01 BDT (UTC+6)*
 
 </div>

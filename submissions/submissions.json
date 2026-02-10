@@ -52397,7 +52397,7 @@
     "timestamp": "Feb/05/2026 01:36"
   },
   "CF361940650": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2194,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52408,6 +52408,7 @@
     "submission_id": "CF361940650",
     "submission_url": "https://codeforces.com/contest/2194/submission/361940650",
     "tags": [
+      "greedy",
       "math"
     ],
     "timestamp": "Feb/08/2026 15:12"
@@ -52442,6 +52443,7 @@
     "submission_id": "CF361994114",
     "submission_url": "https://codeforces.com/contest/2194/submission/361994114",
     "tags": [
+      "brute force",
       "dp",
       "math"
     ],

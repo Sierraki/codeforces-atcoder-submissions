@@ -52443,9 +52443,11 @@
     "submission_id": "CF361994114",
     "submission_url": "https://codeforces.com/contest/2194/submission/361994114",
     "tags": [
+      "bitmasks",
       "brute force",
       "dp",
-      "math"
+      "math",
+      "number theory"
     ],
     "timestamp": "Feb/08/2026 16:51"
   }

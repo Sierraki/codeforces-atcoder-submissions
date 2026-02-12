@@ -52450,5 +52450,39 @@
       "number theory"
     ],
     "timestamp": "Feb/08/2026 16:51"
+  },
+  "CF362512474": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2197,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Game with a Fraction",
+    "problem_url": "https://codeforces.com/contest/2197/problem/C",
+    "submission_id": "CF362512474",
+    "submission_url": "https://codeforces.com/contest/2197/submission/362512474",
+    "tags": [
+      "games",
+      "math"
+    ],
+    "timestamp": "Feb/11/2026 23:01"
+  },
+  "CF362526177": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2197,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Friendly Numbers",
+    "problem_url": "https://codeforces.com/contest/2197/problem/A",
+    "submission_id": "CF362526177",
+    "submission_url": "https://codeforces.com/contest/2197/submission/362526177",
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "timestamp": "Feb/11/2026 23:30"
   }
 }

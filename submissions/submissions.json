@@ -1,4 +1,20 @@
 {
+  "AC73270493": {
+    "contest_id": "abc443",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc443/abc443D Pawn_Line.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Pawn Line",
+    "problem_url": "https://atcoder.jp/contests/abc443/tasks/abc443_d",
+    "submission_id": "AC73270493",
+    "submission_url": "https://atcoder.jp/contests/abc443/submissions/73270493",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/14/2026 02:26"
+  },
   "AC73283420": {
     "contest_id": "awc0005",
     "language": "Python (PyPy 3.11-v7.3.20)",

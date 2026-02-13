@@ -1,4 +1,20 @@
 {
+  "AC73270464": {
+    "contest_id": "awc0005",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/awc0005/awc0005C Staircase-Shaped_Flower_Bed.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Staircase-Shaped Flower Bed",
+    "problem_url": "https://atcoder.jp/contests/awc0005/tasks/awc0005_c",
+    "submission_id": "AC73270464",
+    "submission_url": "https://atcoder.jp/contests/awc0005/submissions/73270464",
+    "tags": [
+      "AtCoder",
+      "*333"
+    ],
+    "timestamp": "Feb/14/2026 02:21"
+  },
   "AC73270493": {
     "contest_id": "abc443",
     "language": "Python (PyPy 3.11-v7.3.20)",

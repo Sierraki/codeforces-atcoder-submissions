@@ -52484,5 +52484,24 @@
       "math"
     ],
     "timestamp": "Feb/11/2026 23:30"
+  },
+  "CF362776536": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2197,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array and Permutation",
+    "problem_url": "https://codeforces.com/contest/2197/problem/B",
+    "submission_id": "CF362776536",
+    "submission_url": "https://codeforces.com/contest/2197/submission/362776536",
+    "tags": [
+      "implementation",
+      "schedules",
+      "sortings",
+      "two pointers"
+    ],
+    "timestamp": "Feb/13/2026 20:04"
   }
 }

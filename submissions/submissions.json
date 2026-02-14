@@ -1,4 +1,20 @@
 {
+  "AC73283420": {
+    "contest_id": "awc0005",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/awc0005/awc0005D Splitting_Delivery_Packages.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Splitting Delivery Packages",
+    "problem_url": "https://atcoder.jp/contests/awc0005/tasks/awc0005_d",
+    "submission_id": "AC73283420",
+    "submission_url": "https://atcoder.jp/contests/awc0005/submissions/73283420",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/14/2026 17:55"
+  },
   "AC73286287": {
     "contest_id": "abc445",
     "language": "Python (PyPy 3.11-v7.3.20)",

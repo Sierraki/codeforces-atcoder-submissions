@@ -1,4 +1,20 @@
 {
+  "AC73312490": {
+    "contest_id": "abc445",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc445/abc445F Exactly_K_Steps_2.py",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Exactly K Steps 2",
+    "problem_url": "https://atcoder.jp/contests/abc445/tasks/abc445_f",
+    "submission_id": "AC73312490",
+    "submission_url": "https://atcoder.jp/contests/abc445/submissions/73312490",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Feb/14/2026 18:46"
+  },
   "AC73321863": {
     "contest_id": "abc445",
     "language": "Python (PyPy 3.11-v7.3.20)",

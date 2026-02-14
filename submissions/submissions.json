@@ -52469,7 +52469,7 @@
     "timestamp": "Feb/11/2026 23:01"
   },
   "CF362526177": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2197,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52480,6 +52480,7 @@
     "submission_id": "CF362526177",
     "submission_url": "https://codeforces.com/contest/2197/submission/362526177",
     "tags": [
+      "binary search",
       "brute force",
       "math"
     ],

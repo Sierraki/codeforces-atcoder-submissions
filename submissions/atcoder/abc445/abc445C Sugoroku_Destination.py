@@ -36,13 +36,23 @@ def ms(numss):
 def solve():
     n = ii()
     nums = lmii()
-    for i in range(n - 1,-1, -1): 
-        tar = nums[i] - 1 
-        nums[i] = nums[tar]
-    print(*nums)
+
+    res = [0] * (n + 1)
+    for i in range(n, -1, -1):
+        if i == n:
+            res[i] = nums[i - 1]
+        else:
+            cur = nums[i - 1]
+            if not res[cur]:
+
+                res[i] = cur
+            else:
+                res[i] = res[nums[i - 1]]
+
+    print(*res[1:])
 
 
-sys.setrecursionlimit(10**5)
+# sys.setrecursionlimit(200000)
 if __name__ == "__main__":
     # size = ii()
     # for _ in range(size):

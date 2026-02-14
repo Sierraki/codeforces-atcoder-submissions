@@ -1,4 +1,20 @@
 {
+  "AC73323308": {
+    "contest_id": "abc445",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc445/abc445C Sugoroku_Destination.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Sugoroku Destination",
+    "problem_url": "https://atcoder.jp/contests/abc445/tasks/abc445_c",
+    "submission_id": "AC73323308",
+    "submission_url": "https://atcoder.jp/contests/abc445/submissions/73323308",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/14/2026 19:22"
+  },
   "AC73344188": {
     "contest_id": "abc445",
     "language": "Python (PyPy 3.11-v7.3.20)",

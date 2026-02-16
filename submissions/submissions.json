@@ -52484,7 +52484,7 @@
     "timestamp": "Feb/08/2026 16:51"
   },
   "CF362512474": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2197,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52496,6 +52496,7 @@
     "submission_url": "https://codeforces.com/contest/2197/submission/362512474",
     "tags": [
       "games",
+      "greedy",
       "math"
     ],
     "timestamp": "Feb/11/2026 23:01"
@@ -52538,7 +52539,7 @@
     "timestamp": "Feb/13/2026 20:04"
   },
   "CF363048800": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2195,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52548,7 +52549,10 @@
     "problem_url": "https://codeforces.com/contest/2195/problem/A",
     "submission_id": "CF363048800",
     "submission_url": "https://codeforces.com/contest/2195/submission/363048800",
-    "tags": [],
+    "tags": [
+      "math",
+      "number theory"
+    ],
     "timestamp": "Feb/15/2026 20:47"
   },
   "CF363088851": {
@@ -52568,7 +52572,7 @@
     "timestamp": "Feb/15/2026 21:06"
   },
   "CF363132820": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2195,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52579,7 +52583,8 @@
     "submission_id": "CF363132820",
     "submission_url": "https://codeforces.com/contest/2195/submission/363132820",
     "tags": [
-      "dp"
+      "dp",
+      "greedy"
     ],
     "timestamp": "Feb/15/2026 21:39"
   }

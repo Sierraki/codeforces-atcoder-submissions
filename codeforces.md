@@ -34,7 +34,7 @@
 <td align="center">1</td>
 <td><a href="https://codeforces.com/contest/2195/problem/C"><b>C</b> - Dice Roll Sequence</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2195/submission/363132820" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>dp</code></td>
+<td><code>dp</code> <code>greedy</code></td>
 <td align="center"><sub>Feb/15/2026 21:39</sub></td>
 </tr>
 <tr>
@@ -48,7 +48,7 @@
 <td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2195/problem/A"><b>A</b> - Sieve of Erato67henes</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2195/submission/363048800" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td>-</td>
+<td><code>math</code> <code>number theory</code></td>
 <td align="center"><sub>Feb/15/2026 20:47</sub></td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@
 <td align="center">6</td>
 <td><a href="https://codeforces.com/contest/2197/problem/C"><b>C</b> - Game with a Fraction</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2197/submission/362512474" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>games</code> <code>math</code></td>
+<td><code>games</code> <code>greedy</code> <code>math</code></td>
 <td align="center"><sub>Feb/11/2026 23:01</sub></td>
 </tr>
 <tr>
@@ -15887,6 +15887,6 @@
 
 <div align="center">
 
-*Last Updated: February 15, 2026 at 23:24 BDT (UTC+6)*
+*Last Updated: February 16, 2026 at 23:37 BDT (UTC+6)*
 
 </div>

@@ -62,7 +62,7 @@
 <td align="center">5</td>
 <td><a href="https://codeforces.com/contest/2197/problem/A"><b>A</b> - Friendly Numbers</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2197/submission/362526177" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>binary search</code> <code>brute force</code> <code>math</code></td>
+<td><code>binary search</code> <code>brute force</code> <code>expression parsing</code> <code>math</code> <code>schedules</code></td>
 <td align="center"><sub>Feb/11/2026 23:30</sub></td>
 </tr>
 <tr>
@@ -15887,6 +15887,6 @@
 
 <div align="center">
 
-*Last Updated: February 16, 2026 at 23:37 BDT (UTC+6)*
+*Last Updated: February 17, 2026 at 23:55 BDT (UTC+6)*
 
 </div>

@@ -52558,7 +52558,7 @@
     "timestamp": "Feb/15/2026 20:47"
   },
   "CF363088851": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2195,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52569,7 +52569,8 @@
     "submission_id": "CF363088851",
     "submission_url": "https://codeforces.com/contest/2195/submission/363088851",
     "tags": [
-      "implementation"
+      "implementation",
+      "sortings"
     ],
     "timestamp": "Feb/15/2026 21:06"
   },

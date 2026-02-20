@@ -41,7 +41,7 @@
 <td align="center">2</td>
 <td><a href="https://codeforces.com/contest/2195/problem/B"><b>B</b> - Heapify 1</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2195/submission/363088851" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>implementation</code></td>
+<td><code>implementation</code> <code>sortings</code></td>
 <td align="center"><sub>Feb/15/2026 21:06</sub></td>
 </tr>
 <tr>
@@ -15887,6 +15887,6 @@
 
 <div align="center">
 
-*Last Updated: February 17, 2026 at 23:55 BDT (UTC+6)*
+*Last Updated: February 20, 2026 at 23:37 BDT (UTC+6)*
 
 </div>

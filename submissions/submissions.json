@@ -1,4 +1,20 @@
 {
+  "AC73477671": {
+    "contest_id": "abc446",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc446/abc446B Greedy_Draft.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Greedy Draft",
+    "problem_url": "https://atcoder.jp/contests/abc446/tasks/abc446_b",
+    "submission_id": "AC73477671",
+    "submission_url": "https://atcoder.jp/contests/abc446/submissions/73477671",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Feb/21/2026 18:09"
+  },
   "AC73489448": {
     "contest_id": "abc446",
     "language": "Python (PyPy 3.11-v7.3.20)",

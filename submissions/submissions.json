@@ -1,4 +1,20 @@
 {
+  "AC73491577": {
+    "contest_id": "abc446",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc446/abc446D Max_Straight.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Max Straight",
+    "problem_url": "https://atcoder.jp/contests/abc446/tasks/abc446_d",
+    "submission_id": "AC73491577",
+    "submission_url": "https://atcoder.jp/contests/abc446/submissions/73491577",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Feb/21/2026 18:35"
+  },
   "AC73494825": {
     "contest_id": "abc446",
     "language": "Python (PyPy 3.11-v7.3.20)",

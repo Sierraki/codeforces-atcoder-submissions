@@ -52590,5 +52590,39 @@
       "greedy"
     ],
     "timestamp": "Feb/15/2026 21:39"
+  },
+  "CF363837682": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2192,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Rotation Game",
+    "problem_url": "https://codeforces.com/contest/2192/problem/A",
+    "submission_id": "CF363837682",
+    "submission_url": "https://codeforces.com/contest/2192/submission/363837682",
+    "tags": [
+      "brute force",
+      "strings"
+    ],
+    "timestamp": "Feb/21/2026 20:43"
+  },
+  "CF363875956": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2192,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Flipping Binary String",
+    "problem_url": "https://codeforces.com/contest/2192/problem/B",
+    "submission_id": "CF363875956",
+    "submission_url": "https://codeforces.com/contest/2192/submission/363875956",
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ],
+    "timestamp": "Feb/21/2026 21:33"
   }
 }

@@ -1,4 +1,20 @@
 {
+  "AC73489448": {
+    "contest_id": "abc446",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc446/abc446C Omelette_Restaurant.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Omelette Restaurant",
+    "problem_url": "https://atcoder.jp/contests/abc446/tasks/abc446_c",
+    "submission_id": "AC73489448",
+    "submission_url": "https://atcoder.jp/contests/abc446/submissions/73489448",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/21/2026 18:30"
+  },
   "AC73491577": {
     "contest_id": "abc446",
     "language": "Python (PyPy 3.11-v7.3.20)",

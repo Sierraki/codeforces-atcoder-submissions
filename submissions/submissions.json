@@ -1,4 +1,20 @@
 {
+  "AC73550439": {
+    "contest_id": "arc214",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/arc214/arc214A Same_Sum_Grid_Path.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Same Sum Grid Path",
+    "problem_url": "https://atcoder.jp/contests/arc214/tasks/arc214_a",
+    "submission_id": "AC73550439",
+    "submission_url": "https://atcoder.jp/contests/arc214/submissions/73550439",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Feb/23/2026 01:48"
+  },
   "CF339984270": {
     "__info_message": "Info: storing URL",
     "contest_id": 118,

@@ -36,21 +36,21 @@ def p(numss):
 def solve():
     n = ii()
     nums = [lmsi() for _ in range(n)]
-    grid = [None for _ in range(2 * n - 1)]
+    grid = [set() for _ in range(2 * n - 1)]
     for i in range(n):
         for j in range(n):
             if nums[i][j] != '?':
-                if not grid[i + j]:
-                    grid[i + j] = nums[i][j]
-                else:
-                    if nums[i][j] != grid[i + j]:
-                        print(-1)
-                        return
+                grid[i + j].add(nums[i][j])
+    for i in grid:
+        if len(i) > 1:
+            print(-1)
+            return
+
     for i in range(n):
         for j in range(n):
             if nums[i][j] == '?':
                 if grid[i + j]:
-                    nums[i][j] = grid[i + j]
+                    nums[i][j] = list(grid[i + j])[0]
                 else:
                     nums[i][j] = '0'
     for i in nums:

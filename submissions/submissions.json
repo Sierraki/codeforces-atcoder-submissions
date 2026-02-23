@@ -52624,5 +52624,39 @@
       "strings"
     ],
     "timestamp": "Feb/21/2026 21:33"
+  },
+  "CF363921008": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2192,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "All-in-one Gun",
+    "problem_url": "https://codeforces.com/contest/2192/problem/C",
+    "submission_id": "CF363921008",
+    "submission_url": "https://codeforces.com/contest/2192/submission/363921008",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/22/2026 01:14"
+  },
+  "CF364052717": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2202,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Parkour Design",
+    "problem_url": "https://codeforces.com/contest/2202/problem/A",
+    "submission_id": "CF364052717",
+    "submission_url": "https://codeforces.com/contest/2202/submission/364052717",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Feb/23/2026 21:02"
   }
 }

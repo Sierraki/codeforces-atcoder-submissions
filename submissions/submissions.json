@@ -52658,5 +52658,36 @@
       "math"
     ],
     "timestamp": "Feb/23/2026 21:02"
+  },
+  "CF364317304": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2203,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Towers of Boxes",
+    "problem_url": "https://codeforces.com/contest/2203/problem/A",
+    "submission_id": "CF364317304",
+    "submission_url": "https://codeforces.com/contest/2203/submission/364317304",
+    "tags": [],
+    "timestamp": "Feb/25/2026 20:40"
+  },
+  "CF364331944": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2203,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Beautiful Numbers",
+    "problem_url": "https://codeforces.com/contest/2203/problem/B",
+    "submission_id": "CF364331944",
+    "submission_url": "https://codeforces.com/contest/2203/submission/364331944",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/25/2026 20:59"
   }
 }

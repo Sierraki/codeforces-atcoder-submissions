@@ -52660,7 +52660,7 @@
     "timestamp": "Feb/23/2026 21:02"
   },
   "CF364317304": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2203,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52670,11 +52670,13 @@
     "problem_url": "https://codeforces.com/contest/2203/problem/A",
     "submission_id": "CF364317304",
     "submission_url": "https://codeforces.com/contest/2203/submission/364317304",
-    "tags": [],
+    "tags": [
+      "math"
+    ],
     "timestamp": "Feb/25/2026 20:40"
   },
   "CF364331944": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2203,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52685,9 +52687,96 @@
     "submission_id": "CF364331944",
     "submission_url": "https://codeforces.com/contest/2203/submission/364331944",
     "tags": [
+      "dp",
       "greedy",
       "math"
     ],
     "timestamp": "Feb/25/2026 20:59"
+  },
+  "CF364388932": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2202,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "ABAB Construction",
+    "problem_url": "https://codeforces.com/contest/2202/problem/B",
+    "submission_id": "CF364388932",
+    "submission_url": "https://codeforces.com/contest/2202/submission/364388932",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Feb/26/2026 00:04"
+  },
+  "CF364392774": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2202,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Lost Civilization (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/2202/problem/C1",
+    "submission_id": "CF364392774",
+    "submission_url": "https://codeforces.com/contest/2202/submission/364392774",
+    "tags": [
+      "data structures",
+      "dsu",
+      "greedy"
+    ],
+    "timestamp": "Feb/26/2026 00:41"
+  },
+  "CF364504713": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2205,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Simons and Cakes for Success",
+    "problem_url": "https://codeforces.com/contest/2205/problem/B",
+    "submission_id": "CF364504713",
+    "submission_url": "https://codeforces.com/contest/2205/submission/364504713",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Feb/26/2026 21:02"
+  },
+  "CF364505560": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2205,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Simons and Making It Beautiful",
+    "problem_url": "https://codeforces.com/contest/2205/problem/A",
+    "submission_id": "CF364505560",
+    "submission_url": "https://codeforces.com/contest/2205/submission/364505560",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Feb/26/2026 21:03"
+  },
+  "CF364544645": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2205,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Simons and Posting Blogs",
+    "problem_url": "https://codeforces.com/contest/2205/problem/C",
+    "submission_id": "CF364544645",
+    "submission_url": "https://codeforces.com/contest/2205/submission/364544645",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Feb/26/2026 23:37"
   }
 }

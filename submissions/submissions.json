@@ -52747,7 +52747,7 @@
     "timestamp": "Feb/26/2026 21:02"
   },
   "CF364505560": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2205,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52758,6 +52758,7 @@
     "submission_id": "CF364505560",
     "submission_url": "https://codeforces.com/contest/2205/submission/364505560",
     "tags": [
+      "brute force",
       "constructive algorithms"
     ],
     "timestamp": "Feb/26/2026 21:03"
@@ -52778,5 +52779,72 @@
       "sortings"
     ],
     "timestamp": "Feb/26/2026 23:37"
+  },
+  "CF364647738": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Eating Game",
+    "problem_url": "https://codeforces.com/contest/2200/problem/A",
+    "submission_id": "CF364647738",
+    "submission_url": "https://codeforces.com/contest/2200/submission/364647738",
+    "tags": [
+      "greedy"
+    ],
+    "timestamp": "Feb/27/2026 20:40"
+  },
+  "CF364652002": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Deletion Sort",
+    "problem_url": "https://codeforces.com/contest/2200/problem/B",
+    "submission_id": "CF364652002",
+    "submission_url": "https://codeforces.com/contest/2200/submission/364652002",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Feb/27/2026 20:43"
+  },
+  "CF364659723": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Specialty String",
+    "problem_url": "https://codeforces.com/contest/2200/problem/C",
+    "submission_id": "CF364659723",
+    "submission_url": "https://codeforces.com/contest/2200/submission/364659723",
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings"
+    ],
+    "timestamp": "Feb/27/2026 20:48"
+  },
+  "CF364731914": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Portal",
+    "problem_url": "https://codeforces.com/contest/2200/problem/D",
+    "submission_id": "CF364731914",
+    "submission_url": "https://codeforces.com/contest/2200/submission/364731914",
+    "tags": [
+      "greedy"
+    ],
+    "timestamp": "Feb/27/2026 22:47"
   }
 }

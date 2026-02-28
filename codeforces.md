@@ -34,7 +34,7 @@
 <td align="center">1</td>
 <td><a href="https://codeforces.com/contest/2200/problem/D"><b>D</b> - Portal</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2200/submission/364731914" title="C++23 (GCC 14-64, msys2)"><code>C++23 (GCC 14-64, msys2)</code></a></td>
-<td><code>greedy</code></td>
+<td><code>greedy</code> <code>sortings</code></td>
 <td align="center"><sub>Feb/27/2026 22:47</sub></td>
 </tr>
 <tr>
@@ -15992,6 +15992,6 @@
 
 <div align="center">
 
-*Last Updated: February 27, 2026 at 23:35 BDT (UTC+6)*
+*Last Updated: February 28, 2026 at 23:20 BDT (UTC+6)*
 
 </div>

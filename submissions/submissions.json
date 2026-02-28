@@ -52832,7 +52832,7 @@
     "timestamp": "Feb/27/2026 20:48"
   },
   "CF364731914": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2200,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52843,7 +52843,8 @@
     "submission_id": "CF364731914",
     "submission_url": "https://codeforces.com/contest/2200/submission/364731914",
     "tags": [
-      "greedy"
+      "greedy",
+      "sortings"
     ],
     "timestamp": "Feb/27/2026 22:47"
   }

@@ -50169,7 +50169,7 @@
     "timestamp": "Nov/03/2025 18:24"
   },
   "CF347268735": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2168,
     "language": "C++20 (GCC 13-64)",
     "path": null,
@@ -50180,13 +50180,14 @@
     "submission_id": "CF347268735",
     "submission_url": "https://codeforces.com/contest/2168/submission/347268735",
     "tags": [
+      "communication",
       "constructive algorithms",
       "interactive"
     ],
     "timestamp": "Nov/03/2025 20:41"
   },
   "CF347277171": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2168,
     "language": "C++20 (GCC 13-64)",
     "path": null,
@@ -50198,6 +50199,7 @@
     "submission_url": "https://codeforces.com/contest/2168/submission/347277171",
     "tags": [
       "bitmasks",
+      "communication",
       "interactive",
       "math"
     ],

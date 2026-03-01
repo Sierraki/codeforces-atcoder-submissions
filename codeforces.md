@@ -874,14 +874,14 @@
 <td align="center">121</td>
 <td><a href="https://codeforces.com/contest/2168/problem/A2"><b>A2</b> - Encode and Decode (Hard Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2168/submission/347277171" title="C++20 (GCC 13-64)"><code>C++20 (GCC 13-64)</code></a></td>
-<td><code>bitmasks</code> <code>interactive</code> <code>math</code></td>
+<td><code>bitmasks</code> <code>communication</code> <code>interactive</code> <code>math</code></td>
 <td align="center"><sub>Nov/03/2025 21:13</sub></td>
 </tr>
 <tr>
 <td align="center">122</td>
 <td><a href="https://codeforces.com/contest/2168/problem/A1"><b>A1</b> - Encode and Decode (Easy Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2168/submission/347268735" title="C++20 (GCC 13-64)"><code>C++20 (GCC 13-64)</code></a></td>
-<td><code>constructive algorithms</code> <code>interactive</code></td>
+<td><code>communication</code> <code>constructive algorithms</code> <code>interactive</code></td>
 <td align="center"><sub>Nov/03/2025 20:41</sub></td>
 </tr>
 <tr>
@@ -15992,6 +15992,6 @@
 
 <div align="center">
 
-*Last Updated: February 28, 2026 at 23:20 BDT (UTC+6)*
+*Last Updated: March 01, 2026 at 23:24 BDT (UTC+6)*
 
 </div>

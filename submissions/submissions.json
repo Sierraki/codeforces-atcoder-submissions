@@ -52849,5 +52849,91 @@
       "sortings"
     ],
     "timestamp": "Feb/27/2026 22:47"
+  },
+  "CF364995998": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2182,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Year Cake",
+    "problem_url": "https://codeforces.com/contest/2182/problem/B",
+    "submission_id": "CF364995998",
+    "submission_url": "https://codeforces.com/contest/2182/submission/364995998",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Mar/01/2026 23:26"
+  },
+  "CF365004477": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prefix Max",
+    "problem_url": "https://codeforces.com/contest/2185/problem/B",
+    "submission_id": "CF365004477",
+    "submission_url": "https://codeforces.com/contest/2185/submission/365004477",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/02/2026 00:51"
+  },
+  "CF365006065": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2180,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ashmal",
+    "problem_url": "https://codeforces.com/contest/2180/problem/B",
+    "submission_id": "CF365006065",
+    "submission_url": "https://codeforces.com/contest/2180/submission/365006065",
+    "tags": [
+      "greedy",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/02/2026 01:09"
+  },
+  "CF365011842": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2193,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Reverse a Permutation",
+    "problem_url": "https://codeforces.com/contest/2193/problem/B",
+    "submission_id": "CF365011842",
+    "submission_url": "https://codeforces.com/contest/2193/submission/365011842",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Mar/02/2026 02:11"
+  },
+  "CF365121816": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1316,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Grade Allocation",
+    "problem_url": "https://codeforces.com/contest/1316/problem/A",
+    "submission_id": "CF365121816",
+    "submission_url": "https://codeforces.com/contest/1316/submission/365121816",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/02/2026 23:03"
   }
 }

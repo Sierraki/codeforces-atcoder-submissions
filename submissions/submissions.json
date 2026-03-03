@@ -52689,7 +52689,9 @@
     "submission_id": "CF364331944",
     "submission_url": "https://codeforces.com/contest/2203/submission/364331944",
     "tags": [
+      "bitmasks",
       "dp",
+      "fft",
       "greedy",
       "math"
     ],
@@ -52799,7 +52801,7 @@
     "timestamp": "Feb/27/2026 20:40"
   },
   "CF364652002": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2200,
     "language": "C++23 (GCC 14-64, msys2)",
     "path": null,
@@ -52810,6 +52812,8 @@
     "submission_id": "CF364652002",
     "submission_url": "https://codeforces.com/contest/2200/submission/364652002",
     "tags": [
+      "bitmasks",
+      "brute force",
       "greedy",
       "sortings"
     ],
@@ -52935,5 +52939,339 @@
       "*800"
     ],
     "timestamp": "Mar/02/2026 23:03"
+  },
+  "CF365140231": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2027,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rectangle Arrangement",
+    "problem_url": "https://codeforces.com/contest/2027/problem/A",
+    "submission_id": "CF365140231",
+    "submission_url": "https://codeforces.com/contest/2027/submission/365140231",
+    "tags": [
+      "geometry",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2026 01:52"
+  },
+  "CF365140814": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1555,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Coin Rows",
+    "problem_url": "https://codeforces.com/contest/1555/problem/C",
+    "submission_id": "CF365140814",
+    "submission_url": "https://codeforces.com/contest/1555/submission/365140814",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "dp",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Mar/03/2026 01:58"
+  },
+  "CF365144905": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 382,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ksenia and Pan Scales",
+    "problem_url": "https://codeforces.com/contest/382/problem/A",
+    "submission_id": "CF365144905",
+    "submission_url": "https://codeforces.com/contest/382/submission/365144905",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Mar/03/2026 02:50"
+  },
+  "CF365145187": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 797,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "k-Factorization",
+    "problem_url": "https://codeforces.com/contest/797/problem/A",
+    "submission_id": "CF365145187",
+    "submission_url": "https://codeforces.com/contest/797/submission/365145187",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Mar/03/2026 02:53"
+  },
+  "CF365145743": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 722,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Broken Clock",
+    "problem_url": "https://codeforces.com/contest/722/problem/A",
+    "submission_id": "CF365145743",
+    "submission_url": "https://codeforces.com/contest/722/submission/365145743",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Mar/03/2026 03:01"
+  },
+  "CF365146132": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 999,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Reversing Encryption",
+    "problem_url": "https://codeforces.com/contest/999/problem/B",
+    "submission_id": "CF365146132",
+    "submission_url": "https://codeforces.com/contest/999/submission/365146132",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/03/2026 03:07"
+  },
+  "CF365146993": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1786,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Alternating Deck (hard version)",
+    "problem_url": "https://codeforces.com/contest/1786/problem/A2",
+    "submission_id": "CF365146993",
+    "submission_url": "https://codeforces.com/contest/1786/submission/365146993",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2026 03:20"
+  },
+  "CF365147576": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 629,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Far Relative\u2019s Birthday Cake",
+    "problem_url": "https://codeforces.com/contest/629/problem/A",
+    "submission_id": "CF365147576",
+    "submission_url": "https://codeforces.com/contest/629/submission/365147576",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "constructive algorithms",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2026 03:29"
+  },
+  "CF365148043": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1788,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "One and Two",
+    "problem_url": "https://codeforces.com/contest/1788/problem/A",
+    "submission_id": "CF365148043",
+    "submission_url": "https://codeforces.com/contest/1788/submission/365148043",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2026 03:37"
+  },
+  "CF365237860": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1864,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Increasing and Decreasing",
+    "problem_url": "https://codeforces.com/contest/1864/problem/A",
+    "submission_id": "CF365237860",
+    "submission_url": "https://codeforces.com/contest/1864/submission/365237860",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2026 20:51"
+  },
+  "CF365242905": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2133,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Redstone?",
+    "problem_url": "https://codeforces.com/contest/2133/problem/A",
+    "submission_id": "CF365242905",
+    "submission_url": "https://codeforces.com/contest/2133/submission/365242905",
+    "tags": [
+      "brute force",
+      "data structures",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2026 21:31"
+  },
+  "CF365244376": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1845,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Come Together",
+    "problem_url": "https://codeforces.com/contest/1845/problem/B",
+    "submission_id": "CF365244376",
+    "submission_url": "https://codeforces.com/contest/1845/submission/365244376",
+    "tags": [
+      "geometry",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Mar/03/2026 21:43"
+  },
+  "CF365245346": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 266,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Queue at the School",
+    "problem_url": "https://codeforces.com/contest/266/problem/B",
+    "submission_id": "CF365245346",
+    "submission_url": "https://codeforces.com/contest/266/submission/365245346",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "implementation",
+      "shortest paths",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2026 21:51"
+  },
+  "CF365246660": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2102,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Picky Cat",
+    "problem_url": "https://codeforces.com/contest/2102/problem/B",
+    "submission_id": "CF365246660",
+    "submission_url": "https://codeforces.com/contest/2102/submission/365246660",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Mar/03/2026 22:03"
+  },
+  "CF365248989": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1814,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Coins",
+    "problem_url": "https://codeforces.com/contest/1814/problem/A",
+    "submission_id": "CF365248989",
+    "submission_url": "https://codeforces.com/contest/1814/submission/365248989",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2026 22:25"
+  },
+  "CF365249636": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1671,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Building",
+    "problem_url": "https://codeforces.com/contest/1671/problem/A",
+    "submission_id": "CF365249636",
+    "submission_url": "https://codeforces.com/contest/1671/submission/365249636",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2026 22:31"
+  },
+  "CF365253612": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1923,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Moving Chips",
+    "problem_url": "https://codeforces.com/contest/1923/problem/A",
+    "submission_id": "CF365253612",
+    "submission_url": "https://codeforces.com/contest/1923/submission/365253612",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2026 23:07"
+  },
+  "CF365257607": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 510,
+    "language": "C++23 (GCC 14-64, msys2)",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fox And Snake",
+    "problem_url": "https://codeforces.com/contest/510/problem/A",
+    "submission_id": "CF365257607",
+    "submission_url": "https://codeforces.com/contest/510/submission/365257607",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Mar/03/2026 23:40"
   }
 }

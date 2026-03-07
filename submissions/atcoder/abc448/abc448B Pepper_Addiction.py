@@ -24,24 +24,21 @@ def read_mat(n): return [lmii() for _ in range(n)]
 
 def solve():
     n, m = mii()
-    nums = lmii()
-    cur = 0
-    # print(nums)
+    nums = [0] + lmii()
+
+    limi = [0] * (m + 1)
+
     for _ in range(n):
-        a, b = mii()
-        if nums[a - 1] - b >= 0:
-            nums[a - 1] -= b
-            cur += b
-        else:
-            cur += nums[a - 1]
-            nums[a - 1] = 0
+        a, b =mii()
+        limi[a] += b
 
-        # print(a, b, cur)
+    ans = 0
+    for j in range(1, m + 1):
+        ans += min(limi[j], nums[j])
 
-        # print(nums)
+    print(ans)
 
 
-    print(cur)
     pass
 
 # sys.setrecursionlimit(200000)

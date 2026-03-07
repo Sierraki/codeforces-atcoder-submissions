@@ -1695,6 +1695,22 @@
     ],
     "timestamp": "Feb/23/2026 01:48"
   },
+  "AC73918067": {
+    "contest_id": "abc448",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc448/abc448B Pepper_Addiction.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Pepper Addiction",
+    "problem_url": "https://atcoder.jp/contests/abc448/tasks/abc448_b",
+    "submission_id": "AC73918067",
+    "submission_url": "https://atcoder.jp/contests/abc448/submissions/73918067",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/07/2026 18:54"
+  },
   "AC73933494": {
     "contest_id": "abc448",
     "language": "Python (PyPy 3.11-v7.3.20)",

@@ -1775,6 +1775,22 @@
     ],
     "timestamp": "Mar/07/2026 19:36"
   },
+  "AC73942810": {
+    "contest_id": "abc447",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc447/abc447B mpp.py",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "mpp",
+    "problem_url": "https://atcoder.jp/contests/abc447/tasks/abc447_b",
+    "submission_id": "AC73942810",
+    "submission_url": "https://atcoder.jp/contests/abc447/submissions/73942810",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/08/2026 00:12"
+  },
   "AC73959957": {
     "contest_id": "abc447",
     "language": "Python (PyPy 3.11-v7.3.20)",

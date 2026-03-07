@@ -1775,6 +1775,22 @@
     ],
     "timestamp": "Mar/07/2026 19:36"
   },
+  "AC73942700": {
+    "contest_id": "abc447",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc447/abc447A Seats_2.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Seats 2",
+    "problem_url": "https://atcoder.jp/contests/abc447/tasks/abc447_a",
+    "submission_id": "AC73942700",
+    "submission_url": "https://atcoder.jp/contests/abc447/submissions/73942700",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/07/2026 23:58"
+  },
   "AC73942810": {
     "contest_id": "abc447",
     "language": "Python (PyPy 3.11-v7.3.20)",

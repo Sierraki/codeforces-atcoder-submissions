@@ -425,7 +425,7 @@
 <tr>
 <td align="center">57</td>
 <td><a href="https://codeforces.com/contest/2191/problem/A"><b>A</b> - Array Coloring</a></td>
-<td align="center"><a href="https://codeforces.com/contest/2191/submission/358993590" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
+<td align="center"><a href="https://codeforces.com/contest/2191/submission/358993561" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
 <td><code>constructive algorithms</code> <code>*800</code></td>
 <td align="center"><sub>Jan/21/2026 06:39</sub></td>
 </tr>
@@ -690,6 +690,6 @@
 
 <div align="center">
 
-*Last Updated: March 07, 2026 at 15:52 BDT (UTC+6)*
+*Last Updated: March 07, 2026 at 23:25 BDT (UTC+6)*
 
 </div>

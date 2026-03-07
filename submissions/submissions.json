@@ -1,1 +1,2329 @@
-{}
+{
+  "CF339984270": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 118,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Task",
+    "problem_url": "https://codeforces.com/contest/118/problem/A",
+    "submission_id": "CF339984270",
+    "submission_url": "https://codeforces.com/contest/118/submission/339984270",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Sep/23/2025 13:53"
+  },
+  "CF339984341": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Theatre Square",
+    "problem_url": "https://codeforces.com/contest/1/problem/A",
+    "submission_id": "CF339984341",
+    "submission_url": "https://codeforces.com/contest/1/submission/339984341",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Sep/23/2025 13:53"
+  },
+  "CF339984402": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 4,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Watermelon",
+    "problem_url": "https://codeforces.com/contest/4/problem/A",
+    "submission_id": "CF339984402",
+    "submission_url": "https://codeforces.com/contest/4/submission/339984402",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Sep/23/2025 13:54"
+  },
+  "CF339984585": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 71,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Way Too Long Words",
+    "problem_url": "https://codeforces.com/contest/71/problem/A",
+    "submission_id": "CF339984585",
+    "submission_url": "https://codeforces.com/contest/71/submission/339984585",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/23/2025 13:56"
+  },
+  "CF346660689": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2155,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "El fucho",
+    "problem_url": "https://codeforces.com/contest/2155/problem/A",
+    "submission_id": "CF346660689",
+    "submission_url": "https://codeforces.com/contest/2155/submission/346660689",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Oct/30/2025 21:53"
+  },
+  "CF346664136": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2152,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Increase or Smash",
+    "problem_url": "https://codeforces.com/contest/2152/problem/A",
+    "submission_id": "CF346664136",
+    "submission_url": "https://codeforces.com/contest/2152/submission/346664136",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Oct/30/2025 22:16"
+  },
+  "CF347560834": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2162,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful Average",
+    "problem_url": "https://codeforces.com/contest/2162/problem/A",
+    "submission_id": "CF347560834",
+    "submission_url": "https://codeforces.com/contest/2162/submission/347560834",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Nov/05/2025 19:46"
+  },
+  "CF350166166": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2172,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "ASCII Art Contest",
+    "problem_url": "https://codeforces.com/contest/2172/problem/A",
+    "submission_id": "CF350166166",
+    "submission_url": "https://codeforces.com/contest/2172/submission/350166166",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Nov/22/2025 13:53"
+  },
+  "CF357092049": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1352,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum of Round Numbers",
+    "problem_url": "https://codeforces.com/contest/1352/problem/A",
+    "submission_id": "CF357092049",
+    "submission_url": "https://codeforces.com/contest/1352/submission/357092049",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/09/2026 20:04"
+  },
+  "CF357101335": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1367,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Even Array",
+    "problem_url": "https://codeforces.com/contest/1367/problem/B",
+    "submission_id": "CF357101335",
+    "submission_url": "https://codeforces.com/contest/1367/submission/357101335",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/09/2026 21:11"
+  },
+  "CF357113192": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1512,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "A-B Palindrome",
+    "problem_url": "https://codeforces.com/contest/1512/problem/C",
+    "submission_id": "CF357113192",
+    "submission_url": "https://codeforces.com/contest/1512/submission/357113192",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Jan/09/2026 22:41"
+  },
+  "CF357254347": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1520,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Same Differences",
+    "problem_url": "https://codeforces.com/contest/1520/problem/D",
+    "submission_id": "CF357254347",
+    "submission_url": "https://codeforces.com/contest/1520/submission/357254347",
+    "tags": [
+      "data structures",
+      "hashing",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jan/11/2026 01:21"
+  },
+  "CF357254429": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1520,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Same Differences",
+    "problem_url": "https://codeforces.com/contest/1520/problem/D",
+    "submission_id": "CF357254429",
+    "submission_url": "https://codeforces.com/contest/1520/submission/357254429",
+    "tags": [
+      "data structures",
+      "hashing",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jan/11/2026 01:22"
+  },
+  "CF357256224": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1475,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd Divisor",
+    "problem_url": "https://codeforces.com/contest/1475/problem/A",
+    "submission_id": "CF357256224",
+    "submission_url": "https://codeforces.com/contest/1475/submission/357256224",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Jan/11/2026 01:46"
+  },
+  "CF357383437": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1475,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd Divisor",
+    "problem_url": "https://codeforces.com/contest/1475/problem/A",
+    "submission_id": "CF357383437",
+    "submission_url": "https://codeforces.com/contest/1475/submission/357383437",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Jan/12/2026 07:09"
+  },
+  "CF357384393": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1360,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Similar Pairs",
+    "problem_url": "https://codeforces.com/contest/1360/problem/C",
+    "submission_id": "CF357384393",
+    "submission_url": "https://codeforces.com/contest/1360/submission/357384393",
+    "tags": [
+      "constructive algorithms",
+      "graph matchings",
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jan/12/2026 07:44"
+  },
+  "CF357386411": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1335,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Two Teams Composing",
+    "problem_url": "https://codeforces.com/contest/1335/problem/C",
+    "submission_id": "CF357386411",
+    "submission_url": "https://codeforces.com/contest/1335/submission/357386411",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jan/12/2026 08:29"
+  },
+  "CF357410674": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1186,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vus the Cossack and Numbers",
+    "problem_url": "https://codeforces.com/contest/1186/problem/D",
+    "submission_id": "CF357410674",
+    "submission_url": "https://codeforces.com/contest/1186/submission/357410674",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jan/12/2026 14:20"
+  },
+  "CF357410943": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1186,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vus the Cossack and Numbers",
+    "problem_url": "https://codeforces.com/contest/1186/problem/D",
+    "submission_id": "CF357410943",
+    "submission_url": "https://codeforces.com/contest/1186/submission/357410943",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jan/12/2026 14:23"
+  },
+  "CF357670077": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2179,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blackslex and Password",
+    "problem_url": "https://codeforces.com/contest/2179/problem/A",
+    "submission_id": "CF357670077",
+    "submission_url": "https://codeforces.com/contest/2179/submission/357670077",
+    "tags": [
+      "math",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jan/13/2026 14:15"
+  },
+  "CF357671331": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2179,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Blackslex and Showering",
+    "problem_url": "https://codeforces.com/contest/2179/problem/B",
+    "submission_id": "CF357671331",
+    "submission_url": "https://codeforces.com/contest/2179/submission/357671331",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/13/2026 14:30"
+  },
+  "CF357772121": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2179,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Blackslex and Number Theory",
+    "problem_url": "https://codeforces.com/contest/2179/problem/C",
+    "submission_id": "CF357772121",
+    "submission_url": "https://codeforces.com/contest/2179/submission/357772121",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jan/14/2026 07:48"
+  },
+  "CF357785851": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2184,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Social Experiment",
+    "problem_url": "https://codeforces.com/contest/2184/problem/A",
+    "submission_id": "CF357785851",
+    "submission_url": "https://codeforces.com/contest/2184/submission/357785851",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/14/2026 12:00"
+  },
+  "CF357790395": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2184,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hourglass",
+    "problem_url": "https://codeforces.com/contest/2184/problem/B",
+    "submission_id": "CF357790395",
+    "submission_url": "https://codeforces.com/contest/2184/submission/357790395",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/14/2026 12:46"
+  },
+  "CF357790438": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2184,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hourglass",
+    "problem_url": "https://codeforces.com/contest/2184/problem/B",
+    "submission_id": "CF357790438",
+    "submission_url": "https://codeforces.com/contest/2184/submission/357790438",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/14/2026 12:47"
+  },
+  "CF357797042": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2184,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Huge Pile",
+    "problem_url": "https://codeforces.com/contest/2184/problem/C",
+    "submission_id": "CF357797042",
+    "submission_url": "https://codeforces.com/contest/2184/submission/357797042",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/14/2026 13:50"
+  },
+  "CF357823182": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1520,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Do Not Be Distracted!",
+    "problem_url": "https://codeforces.com/contest/1520/problem/A",
+    "submission_id": "CF357823182",
+    "submission_url": "https://codeforces.com/contest/1520/submission/357823182",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/14/2026 17:54"
+  },
+  "CF357825091": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 112,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petya and Strings",
+    "problem_url": "https://codeforces.com/contest/112/problem/A",
+    "submission_id": "CF357825091",
+    "submission_url": "https://codeforces.com/contest/112/submission/357825091",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jan/14/2026 18:11"
+  },
+  "CF357825914": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1335,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Candies and Two Sisters",
+    "problem_url": "https://codeforces.com/contest/1335/problem/A",
+    "submission_id": "CF357825914",
+    "submission_url": "https://codeforces.com/contest/1335/submission/357825914",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/14/2026 18:18"
+  },
+  "CF357826932": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1367,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Short Substrings",
+    "problem_url": "https://codeforces.com/contest/1367/problem/A",
+    "submission_id": "CF357826932",
+    "submission_url": "https://codeforces.com/contest/1367/submission/357826932",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jan/14/2026 18:27"
+  },
+  "CF357832098": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1367,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Social Distance",
+    "problem_url": "https://codeforces.com/contest/1367/problem/C",
+    "submission_id": "CF357832098",
+    "submission_url": "https://codeforces.com/contest/1367/submission/357832098",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jan/14/2026 19:09"
+  },
+  "CF357834434": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1367,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Social Distance",
+    "problem_url": "https://codeforces.com/contest/1367/problem/C",
+    "submission_id": "CF357834434",
+    "submission_url": "https://codeforces.com/contest/1367/submission/357834434",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Jan/14/2026 19:28"
+  },
+  "CF357895360": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1512,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Spy Detected!",
+    "problem_url": "https://codeforces.com/contest/1512/problem/A",
+    "submission_id": "CF357895360",
+    "submission_url": "https://codeforces.com/contest/1512/submission/357895360",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/15/2026 07:54"
+  },
+  "CF357895537": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1512,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Spy Detected!",
+    "problem_url": "https://codeforces.com/contest/1512/problem/A",
+    "submission_id": "CF357895537",
+    "submission_url": "https://codeforces.com/contest/1512/submission/357895537",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/15/2026 07:59"
+  },
+  "CF357895842": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1360,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Minimal Square",
+    "problem_url": "https://codeforces.com/contest/1360/problem/A",
+    "submission_id": "CF357895842",
+    "submission_url": "https://codeforces.com/contest/1360/submission/357895842",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/15/2026 08:07"
+  },
+  "CF357896150": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1360,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Honest Coach",
+    "problem_url": "https://codeforces.com/contest/1360/problem/B",
+    "submission_id": "CF357896150",
+    "submission_url": "https://codeforces.com/contest/1360/submission/357896150",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/15/2026 08:14"
+  },
+  "CF357897301": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1360,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Buying Shovels",
+    "problem_url": "https://codeforces.com/contest/1360/problem/D",
+    "submission_id": "CF357897301",
+    "submission_url": "https://codeforces.com/contest/1360/submission/357897301",
+    "tags": [
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Jan/15/2026 08:43"
+  },
+  "CF357897511": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1360,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Buying Shovels",
+    "problem_url": "https://codeforces.com/contest/1360/problem/D",
+    "submission_id": "CF357897511",
+    "submission_url": "https://codeforces.com/contest/1360/submission/357897511",
+    "tags": [
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Jan/15/2026 08:48"
+  },
+  "CF357898938": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1360,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Polygon",
+    "problem_url": "https://codeforces.com/contest/1360/problem/E",
+    "submission_id": "CF357898938",
+    "submission_url": "https://codeforces.com/contest/1360/submission/357898938",
+    "tags": [
+      "dp",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*1300"
+    ],
+    "timestamp": "Jan/15/2026 09:21"
+  },
+  "CF357899118": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1360,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Polygon",
+    "problem_url": "https://codeforces.com/contest/1360/problem/E",
+    "submission_id": "CF357899118",
+    "submission_url": "https://codeforces.com/contest/1360/submission/357899118",
+    "tags": [
+      "dp",
+      "graphs",
+      "implementation",
+      "shortest paths",
+      "*1300"
+    ],
+    "timestamp": "Jan/15/2026 09:26"
+  },
+  "CF358484155": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Perfect Root",
+    "problem_url": "https://codeforces.com/contest/2185/problem/A",
+    "submission_id": "CF358484155",
+    "submission_url": "https://codeforces.com/contest/2185/submission/358484155",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/18/2026 20:40"
+  },
+  "CF358491685": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prefix Max",
+    "problem_url": "https://codeforces.com/contest/2185/problem/B",
+    "submission_id": "CF358491685",
+    "submission_url": "https://codeforces.com/contest/2185/submission/358491685",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/18/2026 20:42"
+  },
+  "CF358519494": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Shifted MEX",
+    "problem_url": "https://codeforces.com/contest/2185/problem/C",
+    "submission_id": "CF358519494",
+    "submission_url": "https://codeforces.com/contest/2185/submission/358519494",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jan/18/2026 20:56"
+  },
+  "CF358574185": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Robotic Rush",
+    "problem_url": "https://codeforces.com/contest/2185/problem/E",
+    "submission_id": "CF358574185",
+    "submission_url": "https://codeforces.com/contest/2185/submission/358574185",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jan/18/2026 21:38"
+  },
+  "CF358848864": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prefix Max",
+    "problem_url": "https://codeforces.com/contest/2185/problem/B",
+    "submission_id": "CF358848864",
+    "submission_url": "https://codeforces.com/contest/2185/submission/358848864",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/20/2026 06:53"
+  },
+  "CF358854233": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "OutOfMemoryError",
+    "problem_url": "https://codeforces.com/contest/2185/problem/D",
+    "submission_id": "CF358854233",
+    "submission_url": "https://codeforces.com/contest/2185/submission/358854233",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Jan/20/2026 08:44"
+  },
+  "CF358856052": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "OutOfMemoryError",
+    "problem_url": "https://codeforces.com/contest/2185/problem/D",
+    "submission_id": "CF358856052",
+    "submission_url": "https://codeforces.com/contest/2185/submission/358856052",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Jan/20/2026 09:13"
+  },
+  "CF358870727": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "OutOfMemoryError",
+    "problem_url": "https://codeforces.com/contest/2185/problem/D",
+    "submission_id": "CF358870727",
+    "submission_url": "https://codeforces.com/contest/2185/submission/358870727",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Jan/20/2026 12:11"
+  },
+  "CF358882181": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Robotic Rush",
+    "problem_url": "https://codeforces.com/contest/2185/problem/E",
+    "submission_id": "CF358882181",
+    "submission_url": "https://codeforces.com/contest/2185/submission/358882181",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jan/20/2026 13:44"
+  },
+  "CF358883866": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Robotic Rush",
+    "problem_url": "https://codeforces.com/contest/2185/problem/E",
+    "submission_id": "CF358883866",
+    "submission_url": "https://codeforces.com/contest/2185/submission/358883866",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Jan/20/2026 13:58"
+  },
+  "CF358993561": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2191,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Coloring",
+    "problem_url": "https://codeforces.com/contest/2191/problem/A",
+    "submission_id": "CF358993561",
+    "submission_url": "https://codeforces.com/contest/2191/submission/358993561",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Jan/21/2026 06:39"
+  },
+  "CF358993590": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2191,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Array Coloring",
+    "problem_url": "https://codeforces.com/contest/2191/problem/A",
+    "submission_id": "CF358993590",
+    "submission_url": "https://codeforces.com/contest/2191/submission/358993590",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Jan/21/2026 06:39"
+  },
+  "CF358998034": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2191,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "MEX Reordering",
+    "problem_url": "https://codeforces.com/contest/2191/problem/B",
+    "submission_id": "CF358998034",
+    "submission_url": "https://codeforces.com/contest/2191/submission/358998034",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Jan/21/2026 08:21"
+  },
+  "CF358998199": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2191,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "MEX Reordering",
+    "problem_url": "https://codeforces.com/contest/2191/problem/B",
+    "submission_id": "CF358998199",
+    "submission_url": "https://codeforces.com/contest/2191/submission/358998199",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Jan/21/2026 08:23"
+  },
+  "CF359079296": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2158,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Split",
+    "problem_url": "https://codeforces.com/contest/2158/problem/B",
+    "submission_id": "CF359079296",
+    "submission_url": "https://codeforces.com/contest/2158/submission/359079296",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jan/21/2026 20:38"
+  },
+  "CF359079627": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2158,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Split",
+    "problem_url": "https://codeforces.com/contest/2158/problem/B",
+    "submission_id": "CF359079627",
+    "submission_url": "https://codeforces.com/contest/2158/submission/359079627",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jan/21/2026 20:41"
+  },
+  "CF359171582": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2147,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Multiple Construction",
+    "problem_url": "https://codeforces.com/contest/2147/problem/B",
+    "submission_id": "CF359171582",
+    "submission_url": "https://codeforces.com/contest/2147/submission/359171582",
+    "tags": [
+      "constructive algorithms",
+      "*1000"
+    ],
+    "timestamp": "Jan/22/2026 14:26"
+  },
+  "CF359171647": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2147,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Multiple Construction",
+    "problem_url": "https://codeforces.com/contest/2147/problem/B",
+    "submission_id": "CF359171647",
+    "submission_url": "https://codeforces.com/contest/2147/submission/359171647",
+    "tags": [
+      "constructive algorithms",
+      "*1000"
+    ],
+    "timestamp": "Jan/22/2026 14:27"
+  },
+  "CF359373846": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2189,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Table with Numbers",
+    "problem_url": "https://codeforces.com/contest/2189/problem/A",
+    "submission_id": "CF359373846",
+    "submission_url": "https://codeforces.com/contest/2189/submission/359373846",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/23/2026 20:52"
+  },
+  "CF359415510": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2189,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "The Curse of the Frog",
+    "problem_url": "https://codeforces.com/contest/2189/problem/B",
+    "submission_id": "CF359415510",
+    "submission_url": "https://codeforces.com/contest/2189/submission/359415510",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jan/23/2026 21:44"
+  },
+  "CF359470274": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2189,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Table with Numbers",
+    "problem_url": "https://codeforces.com/contest/2189/problem/A",
+    "submission_id": "CF359470274",
+    "submission_url": "https://codeforces.com/contest/2189/submission/359470274",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/24/2026 01:54"
+  },
+  "CF359470946": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2176,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Operations with Inversions",
+    "problem_url": "https://codeforces.com/contest/2176/problem/A",
+    "submission_id": "CF359470946",
+    "submission_url": "https://codeforces.com/contest/2176/submission/359470946",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/24/2026 02:01"
+  },
+  "CF359471183": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2176,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Operations with Inversions",
+    "problem_url": "https://codeforces.com/contest/2176/problem/A",
+    "submission_id": "CF359471183",
+    "submission_url": "https://codeforces.com/contest/2176/submission/359471183",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/24/2026 02:04"
+  },
+  "CF359473106": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2176,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Optimal Shifts",
+    "problem_url": "https://codeforces.com/contest/2176/problem/B",
+    "submission_id": "CF359473106",
+    "submission_url": "https://codeforces.com/contest/2176/submission/359473106",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Jan/24/2026 02:29"
+  },
+  "CF359473179": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2176,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Optimal Shifts",
+    "problem_url": "https://codeforces.com/contest/2176/problem/B",
+    "submission_id": "CF359473179",
+    "submission_url": "https://codeforces.com/contest/2176/submission/359473179",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Jan/24/2026 02:30"
+  },
+  "CF359480185": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2176,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Odd Process",
+    "problem_url": "https://codeforces.com/contest/2176/problem/C",
+    "submission_id": "CF359480185",
+    "submission_url": "https://codeforces.com/contest/2176/submission/359480185",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jan/24/2026 04:53"
+  },
+  "CF359480223": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2176,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Odd Process",
+    "problem_url": "https://codeforces.com/contest/2176/problem/C",
+    "submission_id": "CF359480223",
+    "submission_url": "https://codeforces.com/contest/2176/submission/359480223",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jan/24/2026 04:54"
+  },
+  "CF359718490": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2181,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Honey Cake",
+    "problem_url": "https://codeforces.com/contest/2181/problem/H",
+    "submission_id": "CF359718490",
+    "submission_url": "https://codeforces.com/contest/2181/submission/359718490",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Jan/25/2026 18:38"
+  },
+  "CF359724294": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2173,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Niko's Tactical Cards",
+    "problem_url": "https://codeforces.com/contest/2173/problem/B",
+    "submission_id": "CF359724294",
+    "submission_url": "https://codeforces.com/contest/2173/submission/359724294",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/25/2026 19:24"
+  },
+  "CF359724933": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2173,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Niko's Tactical Cards",
+    "problem_url": "https://codeforces.com/contest/2173/problem/B",
+    "submission_id": "CF359724933",
+    "submission_url": "https://codeforces.com/contest/2173/submission/359724933",
+    "tags": [
+      "dp",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jan/25/2026 19:29"
+  },
+  "CF359728635": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2172,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Number Maze",
+    "problem_url": "https://codeforces.com/contest/2172/problem/E",
+    "submission_id": "CF359728635",
+    "submission_url": "https://codeforces.com/contest/2172/submission/359728635",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jan/25/2026 19:57"
+  },
+  "CF359738926": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2193,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "DBMB and the Array",
+    "problem_url": "https://codeforces.com/contest/2193/problem/A",
+    "submission_id": "CF359738926",
+    "submission_url": "https://codeforces.com/contest/2193/submission/359738926",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/25/2026 20:39"
+  },
+  "CF359764454": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2193,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Reverse a Permutation",
+    "problem_url": "https://codeforces.com/contest/2193/problem/B",
+    "submission_id": "CF359764454",
+    "submission_url": "https://codeforces.com/contest/2193/submission/359764454",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/25/2026 20:51"
+  },
+  "CF359781816": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2193,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Replace and Sum",
+    "problem_url": "https://codeforces.com/contest/2193/problem/C",
+    "submission_id": "CF359781816",
+    "submission_url": "https://codeforces.com/contest/2193/submission/359781816",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Jan/25/2026 21:02"
+  },
+  "CF359810883": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2193,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Product Queries",
+    "problem_url": "https://codeforces.com/contest/2193/problem/E",
+    "submission_id": "CF359810883",
+    "submission_url": "https://codeforces.com/contest/2193/submission/359810883",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "shortest paths",
+      "*1300"
+    ],
+    "timestamp": "Jan/25/2026 21:23"
+  },
+  "CF360070343": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2193,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Monster Game",
+    "problem_url": "https://codeforces.com/contest/2193/problem/D",
+    "submission_id": "CF360070343",
+    "submission_url": "https://codeforces.com/contest/2193/submission/360070343",
+    "tags": [
+      "binary search",
+      "sortings",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Jan/27/2026 07:52"
+  },
+  "CF360070452": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2193,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Product Queries",
+    "problem_url": "https://codeforces.com/contest/2193/problem/E",
+    "submission_id": "CF360070452",
+    "submission_url": "https://codeforces.com/contest/2193/submission/360070452",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "shortest paths",
+      "*1300"
+    ],
+    "timestamp": "Jan/27/2026 07:54"
+  },
+  "CF360093070": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2173,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sleeping Through Classes",
+    "problem_url": "https://codeforces.com/contest/2173/problem/A",
+    "submission_id": "CF360093070",
+    "submission_url": "https://codeforces.com/contest/2173/submission/360093070",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/27/2026 12:29"
+  },
+  "CF360093131": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2173,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sleeping Through Classes",
+    "problem_url": "https://codeforces.com/contest/2173/problem/A",
+    "submission_id": "CF360093131",
+    "submission_url": "https://codeforces.com/contest/2173/submission/360093131",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/27/2026 12:30"
+  },
+  "CF360094335": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2158,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Suspension",
+    "problem_url": "https://codeforces.com/contest/2158/problem/A",
+    "submission_id": "CF360094335",
+    "submission_url": "https://codeforces.com/contest/2158/submission/360094335",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/27/2026 12:40"
+  },
+  "CF360100992": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1068,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Birthday",
+    "problem_url": "https://codeforces.com/contest/1068/problem/A",
+    "submission_id": "CF360100992",
+    "submission_url": "https://codeforces.com/contest/1068/submission/360100992",
+    "tags": [
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Jan/27/2026 13:30"
+  },
+  "CF360490843": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2188,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Divisible Permutation",
+    "problem_url": "https://codeforces.com/contest/2188/problem/A",
+    "submission_id": "CF360490843",
+    "submission_url": "https://codeforces.com/contest/2188/submission/360490843",
+    "tags": [
+      "constructive algorithms",
+      "*800"
+    ],
+    "timestamp": "Jan/29/2026 20:40"
+  },
+  "CF360536930": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2188,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Seats",
+    "problem_url": "https://codeforces.com/contest/2188/problem/B",
+    "submission_id": "CF360536930",
+    "submission_url": "https://codeforces.com/contest/2188/submission/360536930",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Jan/29/2026 21:19"
+  },
+  "CF360545311": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2188,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Restricted Sorting",
+    "problem_url": "https://codeforces.com/contest/2188/problem/C",
+    "submission_id": "CF360545311",
+    "submission_url": "https://codeforces.com/contest/2188/submission/360545311",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Jan/29/2026 21:28"
+  },
+  "CF361827773": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2190,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sorting Game",
+    "problem_url": "https://codeforces.com/contest/2190/problem/A",
+    "submission_id": "CF361827773",
+    "submission_url": "https://codeforces.com/contest/2190/submission/361827773",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "greedy",
+      "*1200"
+    ],
+    "timestamp": "Feb/07/2026 16:48"
+  },
+  "CF361941621": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2194,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lawn Mower",
+    "problem_url": "https://codeforces.com/contest/2194/problem/A",
+    "submission_id": "CF361941621",
+    "submission_url": "https://codeforces.com/contest/2194/submission/361941621",
+    "tags": [
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/08/2026 15:13"
+  },
+  "CF361950956": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2194,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Offshores",
+    "problem_url": "https://codeforces.com/contest/2194/problem/B",
+    "submission_id": "CF361950956",
+    "submission_url": "https://codeforces.com/contest/2194/submission/361950956",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Feb/08/2026 15:24"
+  },
+  "CF362142429": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2194,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Offshores",
+    "problem_url": "https://codeforces.com/contest/2194/problem/B",
+    "submission_id": "CF362142429",
+    "submission_url": "https://codeforces.com/contest/2194/submission/362142429",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Feb/09/2026 20:39"
+  },
+  "CF362417651": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2197,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Friendly Numbers",
+    "problem_url": "https://codeforces.com/contest/2197/problem/A",
+    "submission_id": "CF362417651",
+    "submission_url": "https://codeforces.com/contest/2197/submission/362417651",
+    "tags": [
+      "binary search",
+      "brute force",
+      "expression parsing",
+      "math",
+      "schedules"
+    ],
+    "timestamp": "Feb/11/2026 20:42"
+  },
+  "CF362450621": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2197,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Array and Permutation",
+    "problem_url": "https://codeforces.com/contest/2197/problem/B",
+    "submission_id": "CF362450621",
+    "submission_url": "https://codeforces.com/contest/2197/submission/362450621",
+    "tags": [
+      "implementation",
+      "schedules",
+      "sortings",
+      "two pointers"
+    ],
+    "timestamp": "Feb/11/2026 21:16"
+  },
+  "CF362463618": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2197,
+    "language": "Python 3",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Game with a Fraction",
+    "problem_url": "https://codeforces.com/contest/2197/problem/C",
+    "submission_id": "CF362463618",
+    "submission_url": "https://codeforces.com/contest/2197/submission/362463618",
+    "tags": [
+      "games",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/11/2026 21:33"
+  },
+  "CF362478582": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2197,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Another Problem about Beautiful Pairs",
+    "problem_url": "https://codeforces.com/contest/2197/problem/D",
+    "submission_id": "CF362478582",
+    "submission_url": "https://codeforces.com/contest/2197/submission/362478582",
+    "tags": [
+      "brute force",
+      "data structures",
+      "divide and conquer",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Feb/11/2026 21:56"
+  },
+  "CF363074318": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2195,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Heapify 1",
+    "problem_url": "https://codeforces.com/contest/2195/problem/B",
+    "submission_id": "CF363074318",
+    "submission_url": "https://codeforces.com/contest/2195/submission/363074318",
+    "tags": [
+      "implementation",
+      "sortings"
+    ],
+    "timestamp": "Feb/15/2026 20:57"
+  },
+  "CF363083118": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2195,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sieve of Erato67henes",
+    "problem_url": "https://codeforces.com/contest/2195/problem/A",
+    "submission_id": "CF363083118",
+    "submission_url": "https://codeforces.com/contest/2195/submission/363083118",
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Feb/15/2026 21:02"
+  },
+  "CF363092445": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2195,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dice Roll Sequence",
+    "problem_url": "https://codeforces.com/contest/2195/problem/C",
+    "submission_id": "CF363092445",
+    "submission_url": "https://codeforces.com/contest/2195/submission/363092445",
+    "tags": [
+      "dp",
+      "greedy"
+    ],
+    "timestamp": "Feb/15/2026 21:08"
+  },
+  "CF363114431": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2195,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Absolute Cinema",
+    "problem_url": "https://codeforces.com/contest/2195/problem/D",
+    "submission_id": "CF363114431",
+    "submission_url": "https://codeforces.com/contest/2195/submission/363114431",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Feb/15/2026 21:24"
+  },
+  "CF363840184": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2192,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Rotation Game",
+    "problem_url": "https://codeforces.com/contest/2192/problem/A",
+    "submission_id": "CF363840184",
+    "submission_url": "https://codeforces.com/contest/2192/submission/363840184",
+    "tags": [
+      "brute force",
+      "strings"
+    ],
+    "timestamp": "Feb/21/2026 20:46"
+  },
+  "CF363850826": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2192,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Flipping Binary String",
+    "problem_url": "https://codeforces.com/contest/2192/problem/B",
+    "submission_id": "CF363850826",
+    "submission_url": "https://codeforces.com/contest/2192/submission/363850826",
+    "tags": [
+      "constructive algorithms",
+      "strings"
+    ],
+    "timestamp": "Feb/21/2026 20:57"
+  },
+  "CF363859134": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2192,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "All-in-one Gun",
+    "problem_url": "https://codeforces.com/contest/2192/problem/C",
+    "submission_id": "CF363859134",
+    "submission_url": "https://codeforces.com/contest/2192/submission/363859134",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/21/2026 21:07"
+  },
+  "CF363913496": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2195,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sieve of Erato67henes",
+    "problem_url": "https://codeforces.com/contest/2195/problem/A",
+    "submission_id": "CF363913496",
+    "submission_url": "https://codeforces.com/contest/2195/submission/363913496",
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Feb/22/2026 00:08"
+  },
+  "CF363960042": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Theatre Square",
+    "problem_url": "https://codeforces.com/contest/1/problem/A",
+    "submission_id": "CF363960042",
+    "submission_url": "https://codeforces.com/contest/1/submission/363960042",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Feb/23/2026 01:54"
+  },
+  "CF363960199": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2193,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Product Queries",
+    "problem_url": "https://codeforces.com/contest/2193/problem/E",
+    "submission_id": "CF363960199",
+    "submission_url": "https://codeforces.com/contest/2193/submission/363960199",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "shortest paths",
+      "*1300"
+    ],
+    "timestamp": "Feb/23/2026 01:57"
+  },
+  "CF363992525": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 69,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Young Physicist",
+    "problem_url": "https://codeforces.com/contest/69/problem/A",
+    "submission_id": "CF363992525",
+    "submission_url": "https://codeforces.com/contest/69/submission/363992525",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Feb/23/2026 13:10"
+  },
+  "CF363992900": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 58,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chat room",
+    "problem_url": "https://codeforces.com/contest/58/problem/A",
+    "submission_id": "CF363992900",
+    "submission_url": "https://codeforces.com/contest/58/submission/363992900",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Feb/23/2026 13:15"
+  },
+  "CF363992928": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 58,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chat room",
+    "problem_url": "https://codeforces.com/contest/58/problem/A",
+    "submission_id": "CF363992928",
+    "submission_url": "https://codeforces.com/contest/58/submission/363992928",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Feb/23/2026 13:16"
+  },
+  "CF363994861": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 122,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lucky Division",
+    "problem_url": "https://codeforces.com/contest/122/problem/A",
+    "submission_id": "CF363994861",
+    "submission_url": "https://codeforces.com/contest/122/submission/363994861",
+    "tags": [
+      "brute force",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "Feb/23/2026 13:43"
+  },
+  "CF363997008": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 479,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Expression",
+    "problem_url": "https://codeforces.com/contest/479/problem/A",
+    "submission_id": "CF363997008",
+    "submission_url": "https://codeforces.com/contest/479/submission/363997008",
+    "tags": [
+      "brute force",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Feb/23/2026 14:12"
+  },
+  "CF363997716": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 131,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "cAPS lOCK",
+    "problem_url": "https://codeforces.com/contest/131/problem/A",
+    "submission_id": "CF363997716",
+    "submission_url": "https://codeforces.com/contest/131/submission/363997716",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Feb/23/2026 14:21"
+  },
+  "CF363998296": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2193,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Monster Game",
+    "problem_url": "https://codeforces.com/contest/2193/problem/D",
+    "submission_id": "CF363998296",
+    "submission_url": "https://codeforces.com/contest/2193/submission/363998296",
+    "tags": [
+      "binary search",
+      "sortings",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Feb/23/2026 14:29"
+  },
+  "CF364000363": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 230,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dragons",
+    "problem_url": "https://codeforces.com/contest/230/problem/A",
+    "submission_id": "CF364000363",
+    "submission_url": "https://codeforces.com/contest/230/submission/364000363",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "Feb/23/2026 14:56"
+  },
+  "CF364044307": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2202,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Parkour Design",
+    "problem_url": "https://codeforces.com/contest/2202/problem/A",
+    "submission_id": "CF364044307",
+    "submission_url": "https://codeforces.com/contest/2202/submission/364044307",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Feb/23/2026 20:50"
+  },
+  "CF364082018": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2202,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "ABAB Construction",
+    "problem_url": "https://codeforces.com/contest/2202/problem/B",
+    "submission_id": "CF364082018",
+    "submission_url": "https://codeforces.com/contest/2202/submission/364082018",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation"
+    ],
+    "timestamp": "Feb/23/2026 22:00"
+  },
+  "CF364089482": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2202,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Lost Civilization (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/2202/problem/C1",
+    "submission_id": "CF364089482",
+    "submission_url": "https://codeforces.com/contest/2202/submission/364089482",
+    "tags": [
+      "data structures",
+      "dsu",
+      "greedy"
+    ],
+    "timestamp": "Feb/23/2026 22:20"
+  },
+  "CF364112889": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2202,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Lost Civilization (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/2202/problem/C1",
+    "submission_id": "CF364112889",
+    "submission_url": "https://codeforces.com/contest/2202/submission/364112889",
+    "tags": [
+      "data structures",
+      "dsu",
+      "greedy"
+    ],
+    "timestamp": "Feb/24/2026 00:37"
+  },
+  "CF364319874": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2203,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Towers of Boxes",
+    "problem_url": "https://codeforces.com/contest/2203/problem/A",
+    "submission_id": "CF364319874",
+    "submission_url": "https://codeforces.com/contest/2203/submission/364319874",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Feb/25/2026 20:43"
+  },
+  "CF364336042": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2203,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Beautiful Numbers",
+    "problem_url": "https://codeforces.com/contest/2203/problem/B",
+    "submission_id": "CF364336042",
+    "submission_url": "https://codeforces.com/contest/2203/submission/364336042",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "fft",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/25/2026 21:05"
+  },
+  "CF364343034": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2203,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Test Generator",
+    "problem_url": "https://codeforces.com/contest/2203/problem/C",
+    "submission_id": "CF364343034",
+    "submission_url": "https://codeforces.com/contest/2203/submission/364343034",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/25/2026 21:17"
+  },
+  "CF364500459": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2205,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Simons and Making It Beautiful",
+    "problem_url": "https://codeforces.com/contest/2205/problem/A",
+    "submission_id": "CF364500459",
+    "submission_url": "https://codeforces.com/contest/2205/submission/364500459",
+    "tags": [
+      "brute force",
+      "constructive algorithms"
+    ],
+    "timestamp": "Feb/26/2026 20:55"
+  },
+  "CF364506954": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2205,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Simons and Cakes for Success",
+    "problem_url": "https://codeforces.com/contest/2205/problem/B",
+    "submission_id": "CF364506954",
+    "submission_url": "https://codeforces.com/contest/2205/submission/364506954",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Feb/26/2026 21:06"
+  },
+  "CF364519241": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2205,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Simons and Posting Blogs",
+    "problem_url": "https://codeforces.com/contest/2205/problem/C",
+    "submission_id": "CF364519241",
+    "submission_url": "https://codeforces.com/contest/2205/submission/364519241",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Feb/26/2026 21:34"
+  },
+  "CF364547829": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2205,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Simons and Posting Blogs",
+    "problem_url": "https://codeforces.com/contest/2205/problem/C",
+    "submission_id": "CF364547829",
+    "submission_url": "https://codeforces.com/contest/2205/submission/364547829",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Feb/27/2026 00:08"
+  },
+  "CF364547869": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2205,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Simons and Cakes for Success",
+    "problem_url": "https://codeforces.com/contest/2205/problem/B",
+    "submission_id": "CF364547869",
+    "submission_url": "https://codeforces.com/contest/2205/submission/364547869",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Feb/27/2026 00:09"
+  },
+  "CF364549497": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2203,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Test Generator",
+    "problem_url": "https://codeforces.com/contest/2203/problem/C",
+    "submission_id": "CF364549497",
+    "submission_url": "https://codeforces.com/contest/2203/submission/364549497",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/27/2026 00:23"
+  },
+  "CF364653360": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Eating Game",
+    "problem_url": "https://codeforces.com/contest/2200/problem/A",
+    "submission_id": "CF364653360",
+    "submission_url": "https://codeforces.com/contest/2200/submission/364653360",
+    "tags": [
+      "greedy"
+    ],
+    "timestamp": "Feb/27/2026 20:44"
+  },
+  "CF364670062": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Deletion Sort",
+    "problem_url": "https://codeforces.com/contest/2200/problem/B",
+    "submission_id": "CF364670062",
+    "submission_url": "https://codeforces.com/contest/2200/submission/364670062",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Feb/27/2026 20:57"
+  },
+  "CF364679539": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Specialty String",
+    "problem_url": "https://codeforces.com/contest/2200/problem/C",
+    "submission_id": "CF364679539",
+    "submission_url": "https://codeforces.com/contest/2200/submission/364679539",
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings"
+    ],
+    "timestamp": "Feb/27/2026 21:08"
+  },
+  "CF364685985": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Specialty String",
+    "problem_url": "https://codeforces.com/contest/2200/problem/C",
+    "submission_id": "CF364685985",
+    "submission_url": "https://codeforces.com/contest/2200/submission/364685985",
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings"
+    ],
+    "timestamp": "Feb/27/2026 21:16"
+  },
+  "CF364697790": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Portal",
+    "problem_url": "https://codeforces.com/contest/2200/problem/D",
+    "submission_id": "CF364697790",
+    "submission_url": "https://codeforces.com/contest/2200/submission/364697790",
+    "tags": [
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Feb/27/2026 21:34"
+  }
+}

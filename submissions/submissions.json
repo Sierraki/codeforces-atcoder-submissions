@@ -1775,6 +1775,22 @@
     ],
     "timestamp": "Mar/07/2026 19:36"
   },
+  "AC73942662": {
+    "contest_id": "abc448",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc448/abc448D Integer-duplicated_Path.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Integer-duplicated Path",
+    "problem_url": "https://atcoder.jp/contests/abc448/tasks/abc448_d",
+    "submission_id": "AC73942662",
+    "submission_url": "https://atcoder.jp/contests/abc448/submissions/73942662",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Mar/07/2026 23:54"
+  },
   "AC73942700": {
     "contest_id": "abc447",
     "language": "Python (PyPy 3.11-v7.3.20)",

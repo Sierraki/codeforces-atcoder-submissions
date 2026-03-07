@@ -1,12 +1,12 @@
 {
-  "name": "Md Mishkatul Islam",
-  "email": "mishkatcse1@gmail.com",
+  "name": "Enter",
+  "email": "Enter",
   "directory": "submissions",
-  "remote": "https://github.com/MishkatIT/codeforces-atcoder-submissions.git",
+  "remote": "https://github.com/Sierraki/codeforces-atcoder-submissions.git",
   "codeforces": [
-    "MishkatIT"
+    "yoshikawa_yuki"
   ],
   "atcoder": [
-    "MishkatIT"
+    "Sierraki"
   ]
 }

@@ -1775,6 +1775,22 @@
     ],
     "timestamp": "Mar/07/2026 19:36"
   },
+  "AC73959957": {
+    "contest_id": "abc447",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc447/abc447C Insert_and_Erase_A.py",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Insert and Erase A",
+    "problem_url": "https://atcoder.jp/contests/abc447/tasks/abc447_c",
+    "submission_id": "AC73959957",
+    "submission_url": "https://atcoder.jp/contests/abc447/submissions/73959957",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Mar/08/2026 20:36"
+  },
   "CF339984270": {
     "__info_message": "Info: storing URL",
     "contest_id": 118,

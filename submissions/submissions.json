@@ -4165,5 +4165,41 @@
       "sortings"
     ],
     "timestamp": "Feb/27/2026 21:34"
+  },
+  "CF365875782": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2207,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "1-1",
+    "problem_url": "https://codeforces.com/contest/2207/problem/A",
+    "submission_id": "CF365875782",
+    "submission_url": "https://codeforces.com/contest/2207/submission/365875782",
+    "tags": [
+      "greedy",
+      "strings"
+    ],
+    "timestamp": "Mar/08/2026 21:19"
+  },
+  "CF365883559": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2207,
+    "language": "PyPy 3-64",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Where's My Water?",
+    "problem_url": "https://codeforces.com/contest/2207/problem/C",
+    "submission_id": "CF365883559",
+    "submission_url": "https://codeforces.com/contest/2207/submission/365883559",
+    "tags": [
+      "binary search",
+      "data structures",
+      "divide and conquer",
+      "implementation"
+    ],
+    "timestamp": "Mar/08/2026 21:54"
   }
 }

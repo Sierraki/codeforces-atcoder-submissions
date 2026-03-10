@@ -4184,7 +4184,7 @@
     "timestamp": "Mar/08/2026 21:19"
   },
   "CF365883559": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2207,
     "language": "PyPy 3-64",
     "path": null,
@@ -4195,10 +4195,9 @@
     "submission_id": "CF365883559",
     "submission_url": "https://codeforces.com/contest/2207/submission/365883559",
     "tags": [
-      "binary search",
       "data structures",
-      "divide and conquer",
-      "implementation"
+      "dp",
+      "math"
     ],
     "timestamp": "Mar/08/2026 21:54"
   }

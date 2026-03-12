@@ -34,7 +34,7 @@
 <td align="center">1</td>
 <td><a href="https://codeforces.com/contest/2207/problem/C"><b>C</b> - Where's My Water?</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2207/submission/365883559" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>data structures</code> <code>dp</code> <code>math</code></td>
+<td><code>data structures</code> <code>divide and conquer</code> <code>dp</code> <code>math</code></td>
 <td align="center"><sub>Mar/08/2026 21:54</sub></td>
 </tr>
 <tr>
@@ -704,6 +704,6 @@
 
 <div align="center">
 
-*Last Updated: March 10, 2026 at 23:49 BDT (UTC+6)*
+*Last Updated: March 12, 2026 at 23:51 BDT (UTC+6)*
 
 </div>

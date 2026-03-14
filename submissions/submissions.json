@@ -1839,6 +1839,22 @@
     ],
     "timestamp": "Mar/08/2026 20:36"
   },
+  "AC74073701": {
+    "contest_id": "abc449",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc449/abc449A \u03c0.py",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "\u03c0",
+    "problem_url": "https://atcoder.jp/contests/abc449/tasks/abc449_a",
+    "submission_id": "AC74073701",
+    "submission_url": "https://atcoder.jp/contests/abc449/submissions/74073701",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/14/2026 18:02"
+  },
   "AC74083287": {
     "contest_id": "abc449",
     "language": "Python (PyPy 3.11-v7.3.20)",

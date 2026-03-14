@@ -1839,6 +1839,22 @@
     ],
     "timestamp": "Mar/08/2026 20:36"
   },
+  "AC74105211": {
+    "contest_id": "abc449",
+    "language": "Python (PyPy 3.11-v7.3.20)",
+    "path": "atcoder/abc449/abc449D Make_Target_2.py",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Make Target 2",
+    "problem_url": "https://atcoder.jp/contests/abc449/tasks/abc449_d",
+    "submission_id": "AC74105211",
+    "submission_url": "https://atcoder.jp/contests/abc449/submissions/74105211",
+    "tags": [
+      "AtCoder",
+      "*425"
+    ],
+    "timestamp": "Mar/14/2026 18:40"
+  },
   "CF339984270": {
     "__info_message": "Info: storing URL",
     "contest_id": 118,

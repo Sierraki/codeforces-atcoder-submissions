@@ -118,21 +118,21 @@
 <td align="center">13</td>
 <td><a href="https://codeforces.com/contest/2202/problem/C1"><b>C1</b> - Lost Civilization (Easy Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2202/submission/364112889" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>data structures</code> <code>dsu</code> <code>greedy</code></td>
+<td><code>data structures</code> <code>dsu</code> <code>greedy</code> <code>*1300</code></td>
 <td align="center"><sub>Feb/24/2026 00:37</sub></td>
 </tr>
 <tr>
 <td align="center">14</td>
 <td><a href="https://codeforces.com/contest/2202/problem/B"><b>B</b> - ABAB Construction</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2202/submission/364082018" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>dp</code> <code>greedy</code> <code>implementation</code></td>
+<td><code>dp</code> <code>greedy</code> <code>implementation</code> <code>*1200</code></td>
 <td align="center"><sub>Feb/23/2026 22:00</sub></td>
 </tr>
 <tr>
 <td align="center">15</td>
 <td><a href="https://codeforces.com/contest/2202/problem/A"><b>A</b> - Parkour Design</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2202/submission/364044307" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>math</code></td>
+<td><code>math</code> <code>*800</code></td>
 <td align="center"><sub>Feb/23/2026 20:50</sub></td>
 </tr>
 <tr>
@@ -202,91 +202,91 @@
 <td align="center">25</td>
 <td><a href="https://codeforces.com/contest/2195/problem/A"><b>A</b> - Sieve of Erato67henes</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2195/submission/363913496" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>math</code> <code>number theory</code></td>
+<td><code>math</code> <code>number theory</code> <code>*800</code></td>
 <td align="center"><sub>Feb/22/2026 00:08</sub></td>
 </tr>
 <tr>
 <td align="center">26</td>
 <td><a href="https://codeforces.com/contest/2192/problem/C"><b>C</b> - All-in-one Gun</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2192/submission/363859134" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>binary search</code> <code>greedy</code> <code>math</code></td>
+<td><code>binary search</code> <code>greedy</code> <code>math</code> <code>*1300</code></td>
 <td align="center"><sub>Feb/21/2026 21:07</sub></td>
 </tr>
 <tr>
 <td align="center">27</td>
 <td><a href="https://codeforces.com/contest/2192/problem/B"><b>B</b> - Flipping Binary String</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2192/submission/363850826" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>constructive algorithms</code> <code>strings</code></td>
+<td><code>constructive algorithms</code> <code>strings</code> <code>*1000</code></td>
 <td align="center"><sub>Feb/21/2026 20:57</sub></td>
 </tr>
 <tr>
 <td align="center">28</td>
 <td><a href="https://codeforces.com/contest/2192/problem/A"><b>A</b> - String Rotation Game</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2192/submission/363840184" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>brute force</code> <code>strings</code></td>
+<td><code>brute force</code> <code>strings</code> <code>*800</code></td>
 <td align="center"><sub>Feb/21/2026 20:46</sub></td>
 </tr>
 <tr>
 <td align="center">29</td>
 <td><a href="https://codeforces.com/contest/2195/problem/D"><b>D</b> - Absolute Cinema</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2195/submission/363114431" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>math</code></td>
+<td><code>math</code> <code>*1300</code></td>
 <td align="center"><sub>Feb/15/2026 21:24</sub></td>
 </tr>
 <tr>
 <td align="center">30</td>
 <td><a href="https://codeforces.com/contest/2195/problem/C"><b>C</b> - Dice Roll Sequence</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2195/submission/363092445" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>dp</code> <code>greedy</code></td>
+<td><code>dp</code> <code>greedy</code> <code>*1100</code></td>
 <td align="center"><sub>Feb/15/2026 21:08</sub></td>
 </tr>
 <tr>
 <td align="center">31</td>
 <td><a href="https://codeforces.com/contest/2195/problem/B"><b>B</b> - Heapify 1</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2195/submission/363074318" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>implementation</code> <code>sortings</code></td>
+<td><code>implementation</code> <code>sortings</code> <code>*900</code></td>
 <td align="center"><sub>Feb/15/2026 20:57</sub></td>
 </tr>
 <tr>
 <td align="center">32</td>
 <td><a href="https://codeforces.com/contest/2197/problem/D"><b>D</b> - Another Problem about Beautiful Pairs</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2197/submission/362478582" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>brute force</code> <code>data structures</code> <code>divide and conquer</code> <code>math</code> <code>number theory</code></td>
+<td><code>brute force</code> <code>data structures</code> <code>divide and conquer</code> <code>math</code> <code>number theory</code> <code>*1600</code></td>
 <td align="center"><sub>Feb/11/2026 21:56</sub></td>
 </tr>
 <tr>
 <td align="center">33</td>
 <td><a href="https://codeforces.com/contest/2197/problem/C"><b>C</b> - Game with a Fraction</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2197/submission/362463618" title="Python 3"><code>Python 3</code></a></td>
-<td><code>games</code> <code>greedy</code> <code>math</code></td>
+<td><code>games</code> <code>greedy</code> <code>math</code> <code>*1200</code></td>
 <td align="center"><sub>Feb/11/2026 21:33</sub></td>
 </tr>
 <tr>
 <td align="center">34</td>
 <td><a href="https://codeforces.com/contest/2197/problem/B"><b>B</b> - Array and Permutation</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2197/submission/362450621" title="Python 3"><code>Python 3</code></a></td>
-<td><code>implementation</code> <code>schedules</code> <code>sortings</code> <code>two pointers</code></td>
+<td><code>implementation</code> <code>schedules</code> <code>sortings</code> <code>two pointers</code> <code>*1100</code></td>
 <td align="center"><sub>Feb/11/2026 21:16</sub></td>
 </tr>
 <tr>
 <td align="center">35</td>
 <td><a href="https://codeforces.com/contest/2197/problem/A"><b>A</b> - Friendly Numbers</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2197/submission/362417651" title="Python 3"><code>Python 3</code></a></td>
-<td><code>binary search</code> <code>brute force</code> <code>expression parsing</code> <code>math</code> <code>schedules</code></td>
+<td><code>binary search</code> <code>brute force</code> <code>expression parsing</code> <code>math</code> <code>schedules</code> <code>*800</code></td>
 <td align="center"><sub>Feb/11/2026 20:42</sub></td>
 </tr>
 <tr>
 <td align="center">36</td>
 <td><a href="https://codeforces.com/contest/2194/problem/B"><b>B</b> - Offshores</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2194/submission/362142429" title="Python 3"><code>Python 3</code></a></td>
-<td><code>greedy</code> <code>implementation</code> <code>math</code></td>
+<td><code>greedy</code> <code>implementation</code> <code>math</code> <code>*1000</code></td>
 <td align="center"><sub>Feb/09/2026 20:39</sub></td>
 </tr>
 <tr>
 <td align="center">37</td>
 <td><a href="https://codeforces.com/contest/2194/problem/A"><b>A</b> - Lawn Mower</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2194/submission/361941621" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>greedy</code> <code>math</code></td>
+<td><code>greedy</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>Feb/08/2026 15:13</sub></td>
 </tr>
 <tr>
@@ -704,6 +704,6 @@
 
 <div align="center">
 
-*Last Updated: March 12, 2026 at 23:51 BDT (UTC+6)*
+*Last Updated: March 19, 2026 at 23:54 BDT (UTC+6)*
 
 </div>

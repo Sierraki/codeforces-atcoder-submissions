@@ -3466,7 +3466,7 @@
     "timestamp": "Feb/07/2026 16:48"
   },
   "CF361941621": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2194,
     "language": "PyPy 3-64",
     "path": null,
@@ -3478,12 +3478,13 @@
     "submission_url": "https://codeforces.com/contest/2194/submission/361941621",
     "tags": [
       "greedy",
-      "math"
+      "math",
+      "*800"
     ],
     "timestamp": "Feb/08/2026 15:13"
   },
   "CF361950956": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2194,
     "language": "Python 3",
     "path": null,
@@ -3496,12 +3497,13 @@
     "tags": [
       "greedy",
       "implementation",
-      "math"
+      "math",
+      "*1000"
     ],
     "timestamp": "Feb/08/2026 15:24"
   },
   "CF362142429": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2194,
     "language": "Python 3",
     "path": null,
@@ -3514,12 +3516,13 @@
     "tags": [
       "greedy",
       "implementation",
-      "math"
+      "math",
+      "*1000"
     ],
     "timestamp": "Feb/09/2026 20:39"
   },
   "CF362417651": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2197,
     "language": "Python 3",
     "path": null,
@@ -3534,12 +3537,13 @@
       "brute force",
       "expression parsing",
       "math",
-      "schedules"
+      "schedules",
+      "*800"
     ],
     "timestamp": "Feb/11/2026 20:42"
   },
   "CF362450621": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2197,
     "language": "Python 3",
     "path": null,
@@ -3553,12 +3557,13 @@
       "implementation",
       "schedules",
       "sortings",
-      "two pointers"
+      "two pointers",
+      "*1100"
     ],
     "timestamp": "Feb/11/2026 21:16"
   },
   "CF362463618": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2197,
     "language": "Python 3",
     "path": null,
@@ -3571,12 +3576,13 @@
     "tags": [
       "games",
       "greedy",
-      "math"
+      "math",
+      "*1200"
     ],
     "timestamp": "Feb/11/2026 21:33"
   },
   "CF362478582": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2197,
     "language": "PyPy 3-64",
     "path": null,
@@ -3591,12 +3597,13 @@
       "data structures",
       "divide and conquer",
       "math",
-      "number theory"
+      "number theory",
+      "*1600"
     ],
     "timestamp": "Feb/11/2026 21:56"
   },
   "CF363074318": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2195,
     "language": "PyPy 3-64",
     "path": null,
@@ -3608,12 +3615,13 @@
     "submission_url": "https://codeforces.com/contest/2195/submission/363074318",
     "tags": [
       "implementation",
-      "sortings"
+      "sortings",
+      "*900"
     ],
     "timestamp": "Feb/15/2026 20:57"
   },
   "CF363083118": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2195,
     "language": "PyPy 3-64",
     "path": null,
@@ -3625,12 +3633,13 @@
     "submission_url": "https://codeforces.com/contest/2195/submission/363083118",
     "tags": [
       "math",
-      "number theory"
+      "number theory",
+      "*800"
     ],
     "timestamp": "Feb/15/2026 21:02"
   },
   "CF363092445": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2195,
     "language": "PyPy 3-64",
     "path": null,
@@ -3642,12 +3651,13 @@
     "submission_url": "https://codeforces.com/contest/2195/submission/363092445",
     "tags": [
       "dp",
-      "greedy"
+      "greedy",
+      "*1100"
     ],
     "timestamp": "Feb/15/2026 21:08"
   },
   "CF363114431": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2195,
     "language": "PyPy 3-64",
     "path": null,
@@ -3658,12 +3668,13 @@
     "submission_id": "CF363114431",
     "submission_url": "https://codeforces.com/contest/2195/submission/363114431",
     "tags": [
-      "math"
+      "math",
+      "*1300"
     ],
     "timestamp": "Feb/15/2026 21:24"
   },
   "CF363840184": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2192,
     "language": "PyPy 3-64",
     "path": null,
@@ -3675,12 +3686,13 @@
     "submission_url": "https://codeforces.com/contest/2192/submission/363840184",
     "tags": [
       "brute force",
-      "strings"
+      "strings",
+      "*800"
     ],
     "timestamp": "Feb/21/2026 20:46"
   },
   "CF363850826": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2192,
     "language": "PyPy 3-64",
     "path": null,
@@ -3692,12 +3704,13 @@
     "submission_url": "https://codeforces.com/contest/2192/submission/363850826",
     "tags": [
       "constructive algorithms",
-      "strings"
+      "strings",
+      "*1000"
     ],
     "timestamp": "Feb/21/2026 20:57"
   },
   "CF363859134": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2192,
     "language": "PyPy 3-64",
     "path": null,
@@ -3710,12 +3723,13 @@
     "tags": [
       "binary search",
       "greedy",
-      "math"
+      "math",
+      "*1300"
     ],
     "timestamp": "Feb/21/2026 21:07"
   },
   "CF363913496": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2195,
     "language": "PyPy 3-64",
     "path": null,
@@ -3727,7 +3741,8 @@
     "submission_url": "https://codeforces.com/contest/2195/submission/363913496",
     "tags": [
       "math",
-      "number theory"
+      "number theory",
+      "*800"
     ],
     "timestamp": "Feb/22/2026 00:08"
   },
@@ -3914,7 +3929,7 @@
     "timestamp": "Feb/23/2026 14:56"
   },
   "CF364044307": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2202,
     "language": "PyPy 3-64",
     "path": null,
@@ -3925,12 +3940,13 @@
     "submission_id": "CF364044307",
     "submission_url": "https://codeforces.com/contest/2202/submission/364044307",
     "tags": [
-      "math"
+      "math",
+      "*800"
     ],
     "timestamp": "Feb/23/2026 20:50"
   },
   "CF364082018": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2202,
     "language": "PyPy 3-64",
     "path": null,
@@ -3943,12 +3959,13 @@
     "tags": [
       "dp",
       "greedy",
-      "implementation"
+      "implementation",
+      "*1200"
     ],
     "timestamp": "Feb/23/2026 22:00"
   },
   "CF364089482": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2202,
     "language": "PyPy 3-64",
     "path": null,
@@ -3961,12 +3978,13 @@
     "tags": [
       "data structures",
       "dsu",
-      "greedy"
+      "greedy",
+      "*1300"
     ],
     "timestamp": "Feb/23/2026 22:20"
   },
   "CF364112889": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2202,
     "language": "PyPy 3-64",
     "path": null,
@@ -3979,7 +3997,8 @@
     "tags": [
       "data structures",
       "dsu",
-      "greedy"
+      "greedy",
+      "*1300"
     ],
     "timestamp": "Feb/24/2026 00:37"
   },

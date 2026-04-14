@@ -4003,7 +4003,7 @@
     "timestamp": "Feb/24/2026 00:37"
   },
   "CF364319874": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2203,
     "language": "PyPy 3-64",
     "path": null,
@@ -4014,12 +4014,13 @@
     "submission_id": "CF364319874",
     "submission_url": "https://codeforces.com/contest/2203/submission/364319874",
     "tags": [
-      "math"
+      "math",
+      "*800"
     ],
     "timestamp": "Feb/25/2026 20:43"
   },
   "CF364336042": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2203,
     "language": "PyPy 3-64",
     "path": null,
@@ -4034,12 +4035,13 @@
       "dp",
       "fft",
       "greedy",
-      "math"
+      "math",
+      "*1000"
     ],
     "timestamp": "Feb/25/2026 21:05"
   },
   "CF364343034": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2203,
     "language": "PyPy 3-64",
     "path": null,
@@ -4053,12 +4055,13 @@
       "binary search",
       "bitmasks",
       "greedy",
-      "math"
+      "math",
+      "*1500"
     ],
     "timestamp": "Feb/25/2026 21:17"
   },
   "CF364500459": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2205,
     "language": "PyPy 3-64",
     "path": null,
@@ -4070,12 +4073,13 @@
     "submission_url": "https://codeforces.com/contest/2205/submission/364500459",
     "tags": [
       "brute force",
-      "constructive algorithms"
+      "constructive algorithms",
+      "*800"
     ],
     "timestamp": "Feb/26/2026 20:55"
   },
   "CF364506954": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2205,
     "language": "PyPy 3-64",
     "path": null,
@@ -4087,12 +4091,13 @@
     "submission_url": "https://codeforces.com/contest/2205/submission/364506954",
     "tags": [
       "implementation",
-      "math"
+      "math",
+      "*800"
     ],
     "timestamp": "Feb/26/2026 21:06"
   },
   "CF364519241": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2205,
     "language": "PyPy 3-64",
     "path": null,
@@ -4104,12 +4109,13 @@
     "submission_url": "https://codeforces.com/contest/2205/submission/364519241",
     "tags": [
       "greedy",
-      "sortings"
+      "sortings",
+      "*1500"
     ],
     "timestamp": "Feb/26/2026 21:34"
   },
   "CF364547829": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2205,
     "language": "PyPy 3-64",
     "path": null,
@@ -4121,12 +4127,13 @@
     "submission_url": "https://codeforces.com/contest/2205/submission/364547829",
     "tags": [
       "greedy",
-      "sortings"
+      "sortings",
+      "*1500"
     ],
     "timestamp": "Feb/27/2026 00:08"
   },
   "CF364547869": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2205,
     "language": "PyPy 3-64",
     "path": null,
@@ -4138,12 +4145,13 @@
     "submission_url": "https://codeforces.com/contest/2205/submission/364547869",
     "tags": [
       "implementation",
-      "math"
+      "math",
+      "*800"
     ],
     "timestamp": "Feb/27/2026 00:09"
   },
   "CF364549497": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2203,
     "language": "PyPy 3-64",
     "path": null,
@@ -4157,12 +4165,13 @@
       "binary search",
       "bitmasks",
       "greedy",
-      "math"
+      "math",
+      "*1500"
     ],
     "timestamp": "Feb/27/2026 00:23"
   },
   "CF364653360": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2200,
     "language": "PyPy 3-64",
     "path": null,
@@ -4173,12 +4182,13 @@
     "submission_id": "CF364653360",
     "submission_url": "https://codeforces.com/contest/2200/submission/364653360",
     "tags": [
-      "greedy"
+      "greedy",
+      "*800"
     ],
     "timestamp": "Feb/27/2026 20:44"
   },
   "CF364670062": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2200,
     "language": "PyPy 3-64",
     "path": null,
@@ -4192,12 +4202,13 @@
       "bitmasks",
       "brute force",
       "greedy",
-      "sortings"
+      "sortings",
+      "*800"
     ],
     "timestamp": "Feb/27/2026 20:57"
   },
   "CF364679539": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2200,
     "language": "PyPy 3-64",
     "path": null,
@@ -4210,12 +4221,13 @@
     "tags": [
       "brute force",
       "greedy",
-      "strings"
+      "strings",
+      "*900"
     ],
     "timestamp": "Feb/27/2026 21:08"
   },
   "CF364685985": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2200,
     "language": "PyPy 3-64",
     "path": null,
@@ -4228,12 +4240,13 @@
     "tags": [
       "brute force",
       "greedy",
-      "strings"
+      "strings",
+      "*900"
     ],
     "timestamp": "Feb/27/2026 21:16"
   },
   "CF364697790": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2200,
     "language": "PyPy 3-64",
     "path": null,
@@ -4245,12 +4258,13 @@
     "submission_url": "https://codeforces.com/contest/2200/submission/364697790",
     "tags": [
       "greedy",
-      "sortings"
+      "sortings",
+      "*1300"
     ],
     "timestamp": "Feb/27/2026 21:34"
   },
   "CF365875782": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2207,
     "language": "PyPy 3-64",
     "path": null,
@@ -4262,7 +4276,8 @@
     "submission_url": "https://codeforces.com/contest/2207/submission/365875782",
     "tags": [
       "greedy",
-      "strings"
+      "strings",
+      "*800"
     ],
     "timestamp": "Mar/08/2026 21:19"
   },
@@ -4281,7 +4296,8 @@
       "data structures",
       "divide and conquer",
       "dp",
-      "math"
+      "math",
+      "*1600"
     ],
     "timestamp": "Mar/08/2026 21:54"
   }

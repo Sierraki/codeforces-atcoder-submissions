@@ -34,84 +34,84 @@
 <td align="center">1</td>
 <td><a href="https://codeforces.com/contest/2207/problem/C"><b>C</b> - Where's My Water?</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2207/submission/365883559" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>data structures</code> <code>divide and conquer</code> <code>dp</code> <code>math</code></td>
+<td><code>data structures</code> <code>divide and conquer</code> <code>dp</code> <code>math</code> <code>*1600</code></td>
 <td align="center"><sub>Mar/08/2026 21:54</sub></td>
 </tr>
 <tr>
 <td align="center">2</td>
 <td><a href="https://codeforces.com/contest/2207/problem/A"><b>A</b> - 1-1</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2207/submission/365875782" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>greedy</code> <code>strings</code></td>
+<td><code>greedy</code> <code>strings</code> <code>*800</code></td>
 <td align="center"><sub>Mar/08/2026 21:19</sub></td>
 </tr>
 <tr>
 <td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2200/problem/D"><b>D</b> - Portal</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2200/submission/364697790" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>greedy</code> <code>sortings</code></td>
+<td><code>greedy</code> <code>sortings</code> <code>*1300</code></td>
 <td align="center"><sub>Feb/27/2026 21:34</sub></td>
 </tr>
 <tr>
 <td align="center">4</td>
 <td><a href="https://codeforces.com/contest/2200/problem/C"><b>C</b> - Specialty String</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2200/submission/364685985" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>brute force</code> <code>greedy</code> <code>strings</code></td>
+<td><code>brute force</code> <code>greedy</code> <code>strings</code> <code>*900</code></td>
 <td align="center"><sub>Feb/27/2026 21:16</sub></td>
 </tr>
 <tr>
 <td align="center">5</td>
 <td><a href="https://codeforces.com/contest/2200/problem/B"><b>B</b> - Deletion Sort</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2200/submission/364670062" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>bitmasks</code> <code>brute force</code> <code>greedy</code> <code>sortings</code></td>
+<td><code>bitmasks</code> <code>brute force</code> <code>greedy</code> <code>sortings</code> <code>*800</code></td>
 <td align="center"><sub>Feb/27/2026 20:57</sub></td>
 </tr>
 <tr>
 <td align="center">6</td>
 <td><a href="https://codeforces.com/contest/2200/problem/A"><b>A</b> - Eating Game</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2200/submission/364653360" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>greedy</code></td>
+<td><code>greedy</code> <code>*800</code></td>
 <td align="center"><sub>Feb/27/2026 20:44</sub></td>
 </tr>
 <tr>
 <td align="center">7</td>
 <td><a href="https://codeforces.com/contest/2203/problem/C"><b>C</b> - Test Generator</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2203/submission/364549497" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>binary search</code> <code>bitmasks</code> <code>greedy</code> <code>math</code></td>
+<td><code>binary search</code> <code>bitmasks</code> <code>greedy</code> <code>math</code> <code>*1500</code></td>
 <td align="center"><sub>Feb/27/2026 00:23</sub></td>
 </tr>
 <tr>
 <td align="center">8</td>
 <td><a href="https://codeforces.com/contest/2205/problem/B"><b>B</b> - Simons and Cakes for Success</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2205/submission/364547869" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>implementation</code> <code>math</code></td>
+<td><code>implementation</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>Feb/27/2026 00:09</sub></td>
 </tr>
 <tr>
 <td align="center">9</td>
 <td><a href="https://codeforces.com/contest/2205/problem/C"><b>C</b> - Simons and Posting Blogs</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2205/submission/364547829" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>greedy</code> <code>sortings</code></td>
+<td><code>greedy</code> <code>sortings</code> <code>*1500</code></td>
 <td align="center"><sub>Feb/27/2026 00:08</sub></td>
 </tr>
 <tr>
 <td align="center">10</td>
 <td><a href="https://codeforces.com/contest/2205/problem/A"><b>A</b> - Simons and Making It Beautiful</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2205/submission/364500459" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>brute force</code> <code>constructive algorithms</code></td>
+<td><code>brute force</code> <code>constructive algorithms</code> <code>*800</code></td>
 <td align="center"><sub>Feb/26/2026 20:55</sub></td>
 </tr>
 <tr>
 <td align="center">11</td>
 <td><a href="https://codeforces.com/contest/2203/problem/B"><b>B</b> - Beautiful Numbers</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2203/submission/364336042" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>bitmasks</code> <code>dp</code> <code>fft</code> <code>greedy</code> <code>math</code></td>
+<td><code>bitmasks</code> <code>dp</code> <code>fft</code> <code>greedy</code> <code>math</code> <code>*1000</code></td>
 <td align="center"><sub>Feb/25/2026 21:05</sub></td>
 </tr>
 <tr>
 <td align="center">12</td>
 <td><a href="https://codeforces.com/contest/2203/problem/A"><b>A</b> - Towers of Boxes</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2203/submission/364319874" title="PyPy 3-64"><code>PyPy 3-64</code></a></td>
-<td><code>math</code></td>
+<td><code>math</code> <code>*800</code></td>
 <td align="center"><sub>Feb/25/2026 20:43</sub></td>
 </tr>
 <tr>
@@ -704,6 +704,6 @@
 
 <div align="center">
 
-*Last Updated: March 19, 2026 at 23:54 BDT (UTC+6)*
+*Last Updated: April 15, 2026 at 00:07 BDT (UTC+6)*
 
 </div>
